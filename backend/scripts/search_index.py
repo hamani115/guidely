@@ -1,65 +1,33 @@
-import json
-from pathlib import Path
-
-from services.embeddings import embed_query
-from services.vector_store import (
-    load_index,
-    search_index,
-)
+from services.retrieval import search_documents
 
 
-INDEX_PATH = Path("data/index/guidely.index")
-METADATA_PATH = Path("data/index/metadata.json")
+# query = (
+#     "What are the objectives of the "
+#     "Master of Science in Cybersecurity program?"
+# )
 
+query = input("Enter your question: ")
 
-index = load_index(INDEX_PATH)
-
-
-with METADATA_PATH.open(
-    "r",
-    encoding="utf-8",
-) as file:
-    metadata = json.load(file)
-
-
-query = (
-    "What are the objectives of the "
-    "Master of Science in Cybersecurity program?"
-)
-
-
-query_embedding = embed_query(query)
-
-
-scores, indices = search_index(
-    index,
-    query_embedding,
+results = search_documents(
+    query,
     k=3,
 )
 
 
 print(f"\nQuestion:\n{query}")
 
-print("\nTop 3 results:")
+print("\nTop results:")
 
 
-for rank, (score, vector_id) in enumerate(
-    zip(scores, indices),
-    start=1,
-):
-    if vector_id == -1:
-        continue
-
-    chunk = metadata[vector_id]
-
+for rank, result in enumerate(results, start=1):
     print("\n" + "=" * 70)
 
     print(f"Rank: {rank}")
-    print(f"Similarity: {score:.4f}")
-    print(f"Source: {chunk['source']}")
-    print(f"Page: {chunk['page']}")
-    print(f"Chunk: {chunk['chunk_index']}")
-    print(f"Vector ID: {vector_id}")
+    print(f"Similarity: {result['score']:.4f}")
+    print(f"Source: {result['source']}")
+    print(f"Page: {result['page']}")
+    print(f"Chunk: {result['chunk_index']}")
+    print(f"Vector ID: {result['vector_id']}")
 
     print("\nText:")
-    print(chunk["text"])
+    print(result["text"])

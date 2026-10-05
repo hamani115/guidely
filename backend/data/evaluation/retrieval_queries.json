@@ -1,0 +1,22 @@
+[
+    {
+        "query": "What are the objectives of the Master of Science in Cybersecurity program?",
+        "expected_source": "Information-Technology.pdf"
+    },
+    {
+        "query": "What are the admission requirements for the Master of Business Administration program?",
+        "expected_source": "Business-Admin.pdf"
+    },
+    {
+        "query": "What postgraduate programs are available in engineering?",
+        "expected_source": "Engineering.pdf"
+    },
+    {
+        "query": "What postgraduate programs are offered by the College of Science?",
+        "expected_source": "Science.pdf"
+    },
+    {
+        "query": "What postgraduate programs are offered in health and sport sciences?",
+        "expected_source": "Health_Sport_Science.pdf"
+    }
+]
