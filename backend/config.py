@@ -1,0 +1,4 @@
+EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+
+CHUNK_MAX_TOKENS = 220
+CHUNK_OVERLAP_TOKENS = 40
