@@ -13,6 +13,16 @@ print(f"Document: {pdf_path.name}")
 print(f"Pages containing text: {len(pages)}")
 print(f"Total chunks: {len(chunks)}")
 
+for chunk in chunks:
+    if chunk["page"] == 3:
+        print("\n--- DISPLAY TEXT ---")
+        print(chunk["text"])
+
+        print("\n--- EMBEDDING TEXT ---")
+        print(chunk["embedding_text"])
+
+        break
+
 print("\n--- FIRST 10 CHUNKS ---")
 
 for chunk in chunks[:10]:
@@ -23,6 +33,7 @@ for chunk in chunks[:10]:
         f"Page {chunk['page']} | "
         f"{token_count} tokens"
     )
+
 
 print("\n--- FIRST CHUNK CONTENT ---")
 print(f"Source: {chunks[0]['source']}")

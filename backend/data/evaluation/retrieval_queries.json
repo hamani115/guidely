@@ -1,22 +1,81 @@
 [
-    {
-        "query": "What are the objectives of the Master of Science in Cybersecurity program?",
-        "expected_source": "Information-Technology.pdf"
-    },
-    {
-        "query": "What are the admission requirements for the Master of Business Administration program?",
-        "expected_source": "Business-Admin.pdf"
-    },
-    {
-        "query": "What postgraduate programs are available in engineering?",
-        "expected_source": "Engineering.pdf"
-    },
-    {
-        "query": "What postgraduate programs are offered by the College of Science?",
-        "expected_source": "Science.pdf"
-    },
-    {
-        "query": "What postgraduate programs are offered in health and sport sciences?",
-        "expected_source": "Health_Sport_Science.pdf"
-    }
+  {
+    "query": "What are the objectives of the Master of Science in Cybersecurity program?",
+    "expected_source": "Information-Technology.pdf",
+    "expected_pages": [2]
+  },
+  {
+    "query": "What bachelor's degree fields are accepted for admission to the Master of Science in Cybersecurity?",
+    "expected_source": "Information-Technology.pdf",
+    "expected_pages": [3]
+  },
+  {
+    "query": "What courses are taken in the second semester of the Master of Science in Machine Learning and Computational Intelligence?",
+    "expected_source": "Information-Technology.pdf",
+    "expected_pages": [7]
+  },
+
+  {
+    "query": "What specialization is required for admission to the Master of Business Administration program?",
+    "expected_source": "Business-Admin.pdf",
+    "expected_pages": [2]
+  },
+  {
+    "query": "What courses are taken in the third semester of the Master of Business Administration program?",
+    "expected_source": "Business-Admin.pdf",
+    "expected_pages": [3]
+  },
+  {
+    "query": "What bachelor's degree backgrounds are accepted for admission to the Master of Science in Financial Technology?",
+    "expected_source": "Business-Admin.pdf",
+    "expected_pages": [18]
+  },
+
+  {
+    "query": "What bachelor's degree is required for admission to the Master of Science in Mechanical Engineering?",
+    "expected_source": "Engineering.pdf",
+    "expected_pages": [2]
+  },
+  {
+    "query": "What are the objectives of the Master of Science in Engineering Management program?",
+    "expected_source": "Engineering.pdf",
+    "expected_pages": [12]
+  },
+  {
+    "query": "What bachelor's degree specializations are accepted for the Master of Science in Artificial Intelligence Systems?",
+    "expected_source": "Engineering.pdf",
+    "expected_pages": [17]
+  },
+
+  {
+    "query": "What are the admission requirements for Bachelor of Nursing holders applying to the Master of Science in Adult Health Advanced Practice Nursing?",
+    "expected_source": "Health_Sport_Science.pdf",
+    "expected_pages": [3]
+  },
+  {
+    "query": "What minimum CGPA is required to complete the Postgraduate Diploma in Critical Care Nursing?",
+    "expected_source": "Health_Sport_Science.pdf",
+    "expected_pages": [10]
+  },
+  {
+    "query": "What courses are taken in the second semester of the Postgraduate Diploma in Emergency Nursing?",
+    "expected_source": "Health_Sport_Science.pdf",
+    "expected_pages": [12]
+  },
+
+  {
+    "query": "What specialization is required for admission to the Master in Environment and Sustainable Development?",
+    "expected_source": "Science.pdf",
+    "expected_pages": [2]
+  },
+  {
+    "query": "What courses are taken in the first semester of the Master of Science in Biological Sciences?",
+    "expected_source": "Science.pdf",
+    "expected_pages": [6]
+  },
+  {
+    "query": "What academic background is required for admission to the Master of Science in Big Data Science and Analytics?",
+    "expected_source": "Science.pdf",
+    "expected_pages": [9]
+  }
 ]

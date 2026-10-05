@@ -44,8 +44,7 @@ for vector_id, chunk in enumerate(all_chunks):
     chunk["vector_id"] = vector_id
 
 
-texts = [chunk["text"] for chunk in all_chunks]
-
+texts = [chunk["embedding_text"] for chunk in all_chunks]
 
 print("\nCreating embeddings...")
 
