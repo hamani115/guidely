@@ -1,16 +1,27 @@
-import tiktoken
+from transformers import AutoTokenizer
 
-encoding = tiktoken.get_encoding("cl100k_base")
+from config import (
+    CHUNK_MAX_TOKENS,
+    CHUNK_OVERLAP_TOKENS,
+    EMBEDDING_MODEL_NAME,
+)
+
+tokenizer = AutoTokenizer.from_pretrained(EMBEDDING_MODEL_NAME)
 
 
 def count_tokens(text: str) -> int:
-    return len(encoding.encode(text))
+    tokens = tokenizer.encode(
+        text,
+        add_special_tokens=False,
+    )
+
+    return len(tokens)
 
 
 def chunk_text(
     text: str,
-    max_tokens: int = 700,
-    overlap_tokens: int = 100,
+    max_tokens: int = CHUNK_MAX_TOKENS,
+    overlap_tokens: int = CHUNK_OVERLAP_TOKENS,
 ) -> list[str]:
 
     if max_tokens <= 0:
@@ -22,7 +33,10 @@ def chunk_text(
     if overlap_tokens >= max_tokens:
         raise ValueError("overlap_tokens must be smaller than max_tokens")
 
-    tokens = encoding.encode(text)
+    tokens = tokenizer.encode(
+        text,
+        add_special_tokens=False,
+    )
 
     chunks = []
 
@@ -33,7 +47,10 @@ def chunk_text(
 
         chunk_tokens = tokens[start:end]
 
-        chunk = encoding.decode(chunk_tokens).strip()
+        chunk = tokenizer.decode(
+            chunk_tokens,
+            skip_special_tokens=True,
+        ).strip()
 
         if chunk:
             chunks.append(chunk)
