@@ -1,0 +1,596 @@
+[
+  {
+    "source": "Science.pdf",
+    "page": 1,
+    "title": null,
+    "section": null,
+    "heading_path": [],
+    "chunk_index": 0,
+    "text": "University of Bahrain\nDeanship of Graduate Studies & Scientific Research",
+    "embedding_text": "University of Bahrain\nDeanship of Graduate Studies & Scientific Research"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 1,
+    "title": "www.uob.edu.bh",
+    "section": "www.uob.edu.bh",
+    "heading_path": [
+      "www.uob.edu.bh"
+    ],
+    "chunk_index": 1,
+    "text": "www.uob.edu.bh\n+973 17 155355\n+973 17 435033\nstudentcc@uob.edu.bh\npg.studies@uob.edu.bh\nuobedubh",
+    "embedding_text": "Document hierarchy:\nwww.uob.edu.bh\n\nwww.uob.edu.bh\n+973 17 155355\n+973 17 435033\nstudentcc@uob.edu.bh\npg.studies@uob.edu.bh\nuobedubh"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 2,
+    "title": "Master in Environment and Sustainable Development Program",
+    "section": "Program Objectives",
+    "heading_path": [
+      "Master in Environment and Sustainable Development Program",
+      "Program Objectives"
+    ],
+    "chunk_index": 2,
+    "text": "Program Objectives\n1.  Pursue a successful career in environment and sustainable development\nrelated fields.\n2. Qualify for graduate studies in environment and sustainable development.\n3. Serve the community in protecting the environment and achieving principles\nof sustainable development.",
+    "embedding_text": "Previous page context:\n973 17 155355\n+973 17 435033\nstudentcc@uob.edu.bh\npg.studies@uob.edu.bh\nuobedubh\n\nDocument hierarchy:\nMaster in Environment and Sustainable Development Program > Program Objectives\n\nProgram Objectives\n1.  Pursue a successful career in environment and sustainable development\nrelated fields.\n2. Qualify for graduate studies in environment and sustainable development.\n3. Serve the community in protecting the environment and achieving principles\nof sustainable development."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 2,
+    "title": "Master in Environment and Sustainable Development Program",
+    "section": "Program Intended Learning Outcomes",
+    "heading_path": [
+      "Master in Environment and Sustainable Development Program",
+      "Program Intended Learning Outcomes"
+    ],
+    "chunk_index": 3,
+    "text": "Program Intended Learning Outcomes\nStudents who are graduating from the Master in ESD program should be able\nto:\na. Implement advanced knowledge in the field of environment and sustainable\ndevelopment.\nb. Analyze complex environmental and development problems.\nc. Compare alternative solutions to environmental problems using appropriate\ntools and methods.\nd. Synthesize contemporary emerging issues of sustainable environment using\ninterdisciplinary approaches.\ne. Acquire advanced and effective oral and written communication skills in\naccordance to academic standards and ethics.\nf. Execute original research that address issues related to environmental\nsustainability.\ng. Develop intellectual independence and autonomy required for continuing\nprofessional development and life-long learning.",
+    "embedding_text": "Previous page context:\n973 17 155355\n+973 17 435033\nstudentcc@uob.edu.bh\npg.studies@uob.edu.bh\nuobedubh\n\nDocument hierarchy:\nMaster in Environment and Sustainable Development Program > Program Intended Learning Outcomes\n\nProgram Intended Learning Outcomes\nStudents who are graduating from the Master in ESD program should be able\nto:\na. Implement advanced knowledge in the field of environment and sustainable\ndevelopment.\nb. Analyze complex environmental and development problems.\nc. Compare alternative solutions to environmental problems using appropriate\ntools and methods.\nd. Synthesize contemporary emerging issues of sustainable environment using\ninterdisciplinary approaches.\ne. Acquire advanced and effective oral and written communication skills in\naccordance to academic standards and ethics.\nf. Execute original research that address issues related to environmental\nsustainability.\ng. Develop intellectual independence and autonomy required for continuing\nprofessional development and life-long learning."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 2,
+    "title": "Master in Environment and Sustainable Development Program",
+    "section": "Required Specialization for Program Admission",
+    "heading_path": [
+      "Master in Environment and Sustainable Development Program",
+      "Required Specialization for Program Admission"
+    ],
+    "chunk_index": 4,
+    "text": "Required Specialization for Program Admission\n• Bachelor degree in all specializations.",
+    "embedding_text": "Previous page context:\n973 17 155355\n+973 17 435033\nstudentcc@uob.edu.bh\npg.studies@uob.edu.bh\nuobedubh\n\nDocument hierarchy:\nMaster in Environment and Sustainable Development Program > Required Specialization for Program Admission\n\nRequired Specialization for Program Admission\n• Bachelor degree in all specializations."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 3,
+    "title": "Master in Environment and Sustainable Development Program",
+    "section": "First Semester",
+    "heading_path": [
+      "Master in Environment and Sustainable Development Program",
+      "First Semester"
+    ],
+    "chunk_index": 5,
+    "text": "First Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 601\nEnvironmental Science\nESD 603\nEnvironmental Economic\nESD 647\nResearch Methods",
+    "embedding_text": "Previous page context:\nresearch that address issues related to environmental\nsustainability.\ng. Develop intellectual independence and autonomy required for continuing\nprofessional development and life-long learning.\nRequired Specialization for Program Admission\n• Bachelor degree in all specializations.\n\nDocument hierarchy:\nMaster in Environment and Sustainable Development Program > First Semester\n\nFirst Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 601\nEnvironmental Science\nESD 603\nEnvironmental Economic\nESD 647\nResearch Methods"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 3,
+    "title": "Master in Environment and Sustainable Development Program",
+    "section": "Second Semester",
+    "heading_path": [
+      "Master in Environment and Sustainable Development Program",
+      "Second Semester"
+    ],
+    "chunk_index": 6,
+    "text": "Second Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 602\nEnvironmental Law\nESD 651\nResourceWaste Management\nESD 611\nEnergy and the Environment",
+    "embedding_text": "Previous page context:\nresearch that address issues related to environmental\nsustainability.\ng. Develop intellectual independence and autonomy required for continuing\nprofessional development and life-long learning.\nRequired Specialization for Program Admission\n• Bachelor degree in all specializations.\n\nDocument hierarchy:\nMaster in Environment and Sustainable Development Program > Second Semester\n\nSecond Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 602\nEnvironmental Law\nESD 651\nResourceWaste Management\nESD 611\nEnergy and the Environment"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 3,
+    "title": "Master in Environment and Sustainable Development Program",
+    "section": "Third Semester",
+    "heading_path": [
+      "Master in Environment and Sustainable Development Program",
+      "Third Semester"
+    ],
+    "chunk_index": 7,
+    "text": "Third Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD XXX\nElective Course 1\nESD XXX\nElective Course 2\nESD XXX\nElective Course 3",
+    "embedding_text": "Previous page context:\nresearch that address issues related to environmental\nsustainability.\ng. Develop intellectual independence and autonomy required for continuing\nprofessional development and life-long learning.\nRequired Specialization for Program Admission\n• Bachelor degree in all specializations.\n\nDocument hierarchy:\nMaster in Environment and Sustainable Development Program > Third Semester\n\nThird Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD XXX\nElective Course 1\nESD XXX\nElective Course 2\nESD XXX\nElective Course 3"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 3,
+    "title": "Master in Environment and Sustainable Development Program",
+    "section": "Fourth  Semester",
+    "heading_path": [
+      "Master in Environment and Sustainable Development Program",
+      "Fourth  Semester"
+    ],
+    "chunk_index": 8,
+    "text": "Fourth  Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 649\nThesis",
+    "embedding_text": "Previous page context:\nresearch that address issues related to environmental\nsustainability.\ng. Develop intellectual independence and autonomy required for continuing\nprofessional development and life-long learning.\nRequired Specialization for Program Admission\n• Bachelor degree in all specializations.\n\nDocument hierarchy:\nMaster in Environment and Sustainable Development Program > Fourth  Semester\n\nFourth  Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 649\nThesis"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 4,
+    "title": "Master in Environment and Sustainable Development Program",
+    "section": "Details of Elective Courses",
+    "heading_path": [
+      "Master in Environment and Sustainable Development Program",
+      "Details of Elective Courses"
+    ],
+    "chunk_index": 9,
+    "text": "Details of Elective Courses\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 653\nBiodiversity And Conservation\nESD 614\nDesert Ecology And Desertification\nESD 652\nClimate Change And Air Quality\nESD 626\nEnvironmental Impact Assessment\nESD 634\nMarine Pollution\nEnvironmental Radiology And Radiation\nESD 654\nProtection\nESD 646\nSpecial Topics In Environmental Sceince\nESD 656\nWater Resources Managment",
+    "embedding_text": "Previous page context:\nElective Course 1\nESD XXX\nElective Course 2\nESD XXX\nElective Course 3\nFourth  Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 649\nThesis\n\nDocument hierarchy:\nMaster in Environment and Sustainable Development Program > Details of Elective Courses\n\nDetails of Elective Courses\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 653\nBiodiversity And Conservation\nESD 614\nDesert Ecology And Desertification\nESD 652\nClimate Change And Air Quality\nESD 626\nEnvironmental Impact Assessment\nESD 634\nMarine Pollution\nEnvironmental Radiology And Radiation\nESD 654\nProtection\nESD 646\nSpecial Topics In Environmental Sceince\nESD 656\nWater Resources Managment"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 5,
+    "title": "Master of Science in Biological Sciences Program",
+    "section": "Program Objectives",
+    "heading_path": [
+      "Master of Science in Biological Sciences Program",
+      "Program Objectives"
+    ],
+    "chunk_index": 10,
+    "text": "Program Objectives\n1. Hold professional research positions in the educational, medical,\npharmaceutical or biotechnological fields, as well as other industries with\nbiological research and development\n2. Continue graduate studies in Biological Sciences.\n3. Hold educational or teaching positions in life sciences technology and\napplication.",
+    "embedding_text": "Previous page context:\n6\nEnvironmental Impact Assessment\nESD 634\nMarine Pollution\nEnvironmental Radiology And Radiation\nESD 654\nProtection\nESD 646\nSpecial Topics In Environmental Sceince\nESD 656\nWater Resources Managment\n\nDocument hierarchy:\nMaster of Science in Biological Sciences Program > Program Objectives\n\nProgram Objectives\n1. Hold professional research positions in the educational, medical,\npharmaceutical or biotechnological fields, as well as other industries with\nbiological research and development\n2. Continue graduate studies in Biological Sciences.\n3. Hold educational or teaching positions in life sciences technology and\napplication."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 5,
+    "title": "Master of Science in Biological Sciences Program",
+    "section": "Program Intended Learning Outcomes",
+    "heading_path": [
+      "Master of Science in Biological Sciences Program",
+      "Program Intended Learning Outcomes"
+    ],
+    "chunk_index": 11,
+    "text": "Program Intended Learning Outcomes\n1. Demonstrate critical thinking through effective literature search, results\nevaluation, and conclusion formulation in biological sciences.\n2. Express acquired discipline-specific knowledge in relevant situations.\n3. Design original experiments, or conduct observations following the scientific\nmethod in biological sciences.\n4. Collect experimental data using appropriate theoretical, laboratory or field\ntechniques and/or instrumentation.\n5. Communicate science through oral, visual, and written communications.\n6. Develop new and emerging skills, to progress in research and professional\nenvironment in biological sciences.",
+    "embedding_text": "Previous page context:\n6\nEnvironmental Impact Assessment\nESD 634\nMarine Pollution\nEnvironmental Radiology And Radiation\nESD 654\nProtection\nESD 646\nSpecial Topics In Environmental Sceince\nESD 656\nWater Resources Managment\n\nDocument hierarchy:\nMaster of Science in Biological Sciences Program > Program Intended Learning Outcomes\n\nProgram Intended Learning Outcomes\n1. Demonstrate critical thinking through effective literature search, results\nevaluation, and conclusion formulation in biological sciences.\n2. Express acquired discipline-specific knowledge in relevant situations.\n3. Design original experiments, or conduct observations following the scientific\nmethod in biological sciences.\n4. Collect experimental data using appropriate theoretical, laboratory or field\ntechniques and/or instrumentation.\n5. Communicate science through oral, visual, and written communications.\n6. Develop new and emerging skills, to progress in research and professional\nenvironment in biological sciences."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 5,
+    "title": "Master of Science in Biological Sciences Program",
+    "section": "Required Specialization for Program Admission",
+    "heading_path": [
+      "Master of Science in Biological Sciences Program",
+      "Required Specialization for Program Admission"
+    ],
+    "chunk_index": 12,
+    "text": "Required Specialization for Program Admission\n• Students with B.Sc. in fields closely related to Biology, B.Sc. in Chemistry/\nminor Biology, B.Sc. in Medical Laboratories, B.Sc. in Pharmacy, and B.Sc.\nin Ecology.",
+    "embedding_text": "Previous page context:\n6\nEnvironmental Impact Assessment\nESD 634\nMarine Pollution\nEnvironmental Radiology And Radiation\nESD 654\nProtection\nESD 646\nSpecial Topics In Environmental Sceince\nESD 656\nWater Resources Managment\n\nDocument hierarchy:\nMaster of Science in Biological Sciences Program > Required Specialization for Program Admission\n\nRequired Specialization for Program Admission\n• Students with B.Sc. in fields closely related to Biology, B.Sc. in Chemistry/\nminor Biology, B.Sc. in Medical Laboratories, B.Sc. in Pharmacy, and B.Sc.\nin Ecology."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 6,
+    "title": "Master of Science in Biological Sciences Program",
+    "section": "First Semester",
+    "heading_path": [
+      "Master of Science in Biological Sciences Program",
+      "First Semester"
+    ],
+    "chunk_index": 13,
+    "text": "First Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBIOLS 610\nBiostatistics\nBIOLS 611\nBioinformatics\nBIOLS 612\nAdvanced Techniques in Biology",
+    "embedding_text": "Previous page context:\nin fields closely related to Biology, B.Sc. in Chemistry/\nminor Biology, B.Sc. in Medical Laboratories, B.Sc. in Pharmacy, and B.Sc.\nin Ecology.\n\nDocument hierarchy:\nMaster of Science in Biological Sciences Program > First Semester\n\nFirst Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBIOLS 610\nBiostatistics\nBIOLS 611\nBioinformatics\nBIOLS 612\nAdvanced Techniques in Biology"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 6,
+    "title": "Master of Science in Biological Sciences Program",
+    "section": "Second Semester",
+    "heading_path": [
+      "Master of Science in Biological Sciences Program",
+      "Second Semester"
+    ],
+    "chunk_index": 14,
+    "text": "Second Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBIOLS 600\nSeminar\nBIOLS 601\nResearch Methodology and Ethics\nBIOLS 6xx\nElective 1",
+    "embedding_text": "Previous page context:\nin fields closely related to Biology, B.Sc. in Chemistry/\nminor Biology, B.Sc. in Medical Laboratories, B.Sc. in Pharmacy, and B.Sc.\nin Ecology.\n\nDocument hierarchy:\nMaster of Science in Biological Sciences Program > Second Semester\n\nSecond Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBIOLS 600\nSeminar\nBIOLS 601\nResearch Methodology and Ethics\nBIOLS 6xx\nElective 1"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 6,
+    "title": "Master of Science in Biological Sciences Program",
+    "section": "Third Semester",
+    "heading_path": [
+      "Master of Science in Biological Sciences Program",
+      "Third Semester"
+    ],
+    "chunk_index": 15,
+    "text": "Third Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBIOLS 6xx\nElective 2",
+    "embedding_text": "Previous page context:\nin fields closely related to Biology, B.Sc. in Chemistry/\nminor Biology, B.Sc. in Medical Laboratories, B.Sc. in Pharmacy, and B.Sc.\nin Ecology.\n\nDocument hierarchy:\nMaster of Science in Biological Sciences Program > Third Semester\n\nThird Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBIOLS 6xx\nElective 2"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 6,
+    "title": "Master of Science in Biological Sciences Program",
+    "section": "Fourth Semester",
+    "heading_path": [
+      "Master of Science in Biological Sciences Program",
+      "Fourth Semester"
+    ],
+    "chunk_index": 16,
+    "text": "Fourth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBIOLS 699\nThesis",
+    "embedding_text": "Previous page context:\nin fields closely related to Biology, B.Sc. in Chemistry/\nminor Biology, B.Sc. in Medical Laboratories, B.Sc. in Pharmacy, and B.Sc.\nin Ecology.\n\nDocument hierarchy:\nMaster of Science in Biological Sciences Program > Fourth Semester\n\nFourth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBIOLS 699\nThesis"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 7,
+    "title": "Master of Science in Biological Sciences Program",
+    "section": "Electives Course List",
+    "heading_path": [
+      "Master of Science in Biological Sciences Program",
+      "Electives Course List"
+    ],
+    "chunk_index": 17,
+    "text": "Electives Course List\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBIOLS 606\nAdvances in Biotechnology\nBIOLS 607\nAdvances in Cell and Molecular Biology\nBIOLS 608\nAdvances in Marine Biology\nBIOLS 609\nArtificial Intelligence in Biology\nBIOLS 613\nSpecial Topics in Biological Sciences",
+    "embedding_text": "Previous page context:\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBIOLS 6xx\nElective 2\nFourth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBIOLS 699\nThesis\n\nDocument hierarchy:\nMaster of Science in Biological Sciences Program > Electives Course List\n\nElectives Course List\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBIOLS 606\nAdvances in Biotechnology\nBIOLS 607\nAdvances in Cell and Molecular Biology\nBIOLS 608\nAdvances in Marine Biology\nBIOLS 609\nArtificial Intelligence in Biology\nBIOLS 613\nSpecial Topics in Biological Sciences"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 8,
+    "title": "Master of Science in Big Data Science and Analytics Program",
+    "section": "Program Objectives",
+    "heading_path": [
+      "Master of Science in Big Data Science and Analytics Program",
+      "Program Objectives"
+    ],
+    "chunk_index": 18,
+    "text": "Program Objectives\n1. Work successfully as big data scientists or analysts in a variety of related\ncareer fields.\n2. Pursue research activities in several related areas involving big data science\nand analytics.\n3. Pursue professional development to be recognized as professional big data\nscientists or analysts.\n4. Enhance society’s development through the effective use of the knowledge\nand skills specific to big data science and analytics.",
+    "embedding_text": "Previous page context:\n606\nAdvances in Biotechnology\nBIOLS 607\nAdvances in Cell and Molecular Biology\nBIOLS 608\nAdvances in Marine Biology\nBIOLS 609\nArtificial Intelligence in Biology\nBIOLS 613\nSpecial Topics in Biological Sciences\n\nDocument hierarchy:\nMaster of Science in Big Data Science and Analytics Program > Program Objectives\n\nProgram Objectives\n1. Work successfully as big data scientists or analysts in a variety of related\ncareer fields.\n2. Pursue research activities in several related areas involving big data science\nand analytics.\n3. Pursue professional development to be recognized as professional big data\nscientists or analysts.\n4. Enhance society’s development through the effective use of the knowledge\nand skills specific to big data science and analytics."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 8,
+    "title": "Master of Science in Big Data Science and Analytics Program",
+    "section": "Program Intended Learning Outcomes",
+    "heading_path": [
+      "Master of Science in Big Data Science and Analytics Program",
+      "Program Intended Learning Outcomes"
+    ],
+    "chunk_index": 19,
+    "text": "Program Intended Learning Outcomes\n1. Demonstrate broad and deep knowledge of the concepts, terminologies,\ntechniques in the context of big data science and analytics.\n2. Identify and formulate practical problems in a variety of big data applications.\n3. Design and conduct effective data-driven experiments in a variety of\nprofessions to meet specific needs within the available resources and the\nexisting constraints.\n4. Use advanced statistical tools, specialist software and computing technology\neffectively for big data acquisition, quality evaluation, management and\nmanipulation that involves storing, cleaning, exploring, visualizing, and\nanalyzing big data.\n5. Provide a critical evaluation of the existing techniques in terms of applicability,\neffectiveness and efficiency and develop creative techniques to handle big\ndata issues.\n6. Extract valuable information from structured and unstructured big data and\ntransform this information into actionable decisions.\n7. Communicate important information in relation to big data appropriately to\nsuit the",
+    "embedding_text": "Previous page context:\n606\nAdvances in Biotechnology\nBIOLS 607\nAdvances in Cell and Molecular Biology\nBIOLS 608\nAdvances in Marine Biology\nBIOLS 609\nArtificial Intelligence in Biology\nBIOLS 613\nSpecial Topics in Biological Sciences\n\nDocument hierarchy:\nMaster of Science in Big Data Science and Analytics Program > Program Intended Learning Outcomes\n\nProgram Intended Learning Outcomes\n1. Demonstrate broad and deep knowledge of the concepts, terminologies,\ntechniques in the context of big data science and analytics.\n2. Identify and formulate practical problems in a variety of big data applications.\n3. Design and conduct effective data-driven experiments in a variety of\nprofessions to meet specific needs within the available resources and the\nexisting constraints.\n4. Use advanced statistical tools, specialist software and computing technology\neffectively for big data acquisition, quality evaluation, management and\nmanipulation that involves storing, cleaning, exploring, visualizing, and\nanalyzing big data.\n5. Provide a critical evaluation of the existing techniques in terms of applicability,\neffectiveness and efficiency and develop creative techniques to handle big\ndata issues.\n6. Extract valuable information from structured and unstructured big data and\ntransform this information into actionable decisions.\n7. Communicate important information in relation to big data appropriately to\nsuit the"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 8,
+    "title": "Master of Science in Big Data Science and Analytics Program",
+    "section": "Program Intended Learning Outcomes",
+    "heading_path": [
+      "Master of Science in Big Data Science and Analytics Program",
+      "Program Intended Learning Outcomes"
+    ],
+    "chunk_index": 20,
+    "text": "structured and unstructured big data and\ntransform this information into actionable decisions.\n7. Communicate important information in relation to big data appropriately to\nsuit the target audience.\n8. Demonstrate the ability to work individually and collaboratively to handle the\ncomplexity and diversity of big data problems.",
+    "embedding_text": "Previous page context:\n606\nAdvances in Biotechnology\nBIOLS 607\nAdvances in Cell and Molecular Biology\nBIOLS 608\nAdvances in Marine Biology\nBIOLS 609\nArtificial Intelligence in Biology\nBIOLS 613\nSpecial Topics in Biological Sciences\n\nDocument hierarchy:\nMaster of Science in Big Data Science and Analytics Program > Program Intended Learning Outcomes\n\nstructured and unstructured big data and\ntransform this information into actionable decisions.\n7. Communicate important information in relation to big data appropriately to\nsuit the target audience.\n8. Demonstrate the ability to work individually and collaboratively to handle the\ncomplexity and diversity of big data problems."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 9,
+    "title": "Master of Science in Big Data Science and Analytics Program",
+    "section": "Program Intended Learning Outcomes",
+    "heading_path": [
+      "Master of Science in Big Data Science and Analytics Program",
+      "Program Intended Learning Outcomes"
+    ],
+    "chunk_index": 21,
+    "text": "9. Demonstrate awareness of ethics, responsibility and consequences in\nrelation to collecting and using big data.\n10. Pursue life-long learning through continuous professional development in\nthe field of big data science and analytics.",
+    "embedding_text": "Previous page context:\n.\n7. Communicate important information in relation to big data appropriately to\nsuit the target audience.\n8. Demonstrate the ability to work individually and collaboratively to handle the\ncomplexity and diversity of big data problems.\n\nDocument hierarchy:\nMaster of Science in Big Data Science and Analytics Program > Program Intended Learning Outcomes\n\n9. Demonstrate awareness of ethics, responsibility and consequences in\nrelation to collecting and using big data.\n10. Pursue life-long learning through continuous professional development in\nthe field of big data science and analytics."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 9,
+    "title": "Master of Science in Big Data Science and Analytics Program",
+    "section": "Required Specialization for Program Admission",
+    "heading_path": [
+      "Master of Science in Big Data Science and Analytics Program",
+      "Required Specialization for Program Admission"
+    ],
+    "chunk_index": 22,
+    "text": "Required Specialization for Program Admission\n• Bachelor Degree in any field/ any specialization with a good standard\n(minimum grade C) statistical/mathematical background in the areas of\nCalculus, Linear Algebra, Probability and Statistics and a good standard\n(minimum grade C) IT background in the areas of Computer Programing\n(Java, C++, Python, R), Data Structure & Algorithms",
+    "embedding_text": "Previous page context:\n.\n7. Communicate important information in relation to big data appropriately to\nsuit the target audience.\n8. Demonstrate the ability to work individually and collaboratively to handle the\ncomplexity and diversity of big data problems.\n\nDocument hierarchy:\nMaster of Science in Big Data Science and Analytics Program > Required Specialization for Program Admission\n\nRequired Specialization for Program Admission\n• Bachelor Degree in any field/ any specialization with a good standard\n(minimum grade C) statistical/mathematical background in the areas of\nCalculus, Linear Algebra, Probability and Statistics and a good standard\n(minimum grade C) IT background in the areas of Computer Programing\n(Java, C++, Python, R), Data Structure & Algorithms"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 9,
+    "title": "Master of Science in Big Data Science and Analytics Program",
+    "section": "First Semester",
+    "heading_path": [
+      "Master of Science in Big Data Science and Analytics Program",
+      "First Semester"
+    ],
+    "chunk_index": 23,
+    "text": "First Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBDSA 601\nResearch Methods\nBDSA 602\nStatistical Data Analysis\nBDSA 603\nBig Data Analytics",
+    "embedding_text": "Previous page context:\n.\n7. Communicate important information in relation to big data appropriately to\nsuit the target audience.\n8. Demonstrate the ability to work individually and collaboratively to handle the\ncomplexity and diversity of big data problems.\n\nDocument hierarchy:\nMaster of Science in Big Data Science and Analytics Program > First Semester\n\nFirst Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBDSA 601\nResearch Methods\nBDSA 602\nStatistical Data Analysis\nBDSA 603\nBig Data Analytics"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 9,
+    "title": "Master of Science in Big Data Science and Analytics Program",
+    "section": "Second Semester",
+    "heading_path": [
+      "Master of Science in Big Data Science and Analytics Program",
+      "Second Semester"
+    ],
+    "chunk_index": 24,
+    "text": "Second Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBDSA 604\nMachine Learning\nBDSA 605\nData Mining\nBDSA 610\nData Visualization",
+    "embedding_text": "Previous page context:\n.\n7. Communicate important information in relation to big data appropriately to\nsuit the target audience.\n8. Demonstrate the ability to work individually and collaboratively to handle the\ncomplexity and diversity of big data problems.\n\nDocument hierarchy:\nMaster of Science in Big Data Science and Analytics Program > Second Semester\n\nSecond Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBDSA 604\nMachine Learning\nBDSA 605\nData Mining\nBDSA 610\nData Visualization"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 9,
+    "title": "Master of Science in Big Data Science and Analytics Program",
+    "section": "Third Semester",
+    "heading_path": [
+      "Master of Science in Big Data Science and Analytics Program",
+      "Third Semester"
+    ],
+    "chunk_index": 25,
+    "text": "Third Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBDSA 609\nThesis",
+    "embedding_text": "Previous page context:\n.\n7. Communicate important information in relation to big data appropriately to\nsuit the target audience.\n8. Demonstrate the ability to work individually and collaboratively to handle the\ncomplexity and diversity of big data problems.\n\nDocument hierarchy:\nMaster of Science in Big Data Science and Analytics Program > Third Semester\n\nThird Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBDSA 609\nThesis"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 10,
+    "title": "Master of Science in Environmental Chemistry Program",
+    "section": "Program Objectives",
+    "heading_path": [
+      "Master of Science in Environmental Chemistry Program",
+      "Program Objectives"
+    ],
+    "chunk_index": 26,
+    "text": "Program Objectives\n1. Hold professional research positions in the educational, petrochemical,\nenvironmental, medical, pharmaceutical fields, as well as other industries\nwith chemical research and development.\n2. Continue graduate studies in chemical sciences.\n3. Debate on the importance of chemical research for achieving sustainable\neconomic and welfare.\n4. Build internship with Bahrain society through collaborative research.",
+    "embedding_text": "Previous page context:\nA 604\nMachine Learning\nBDSA 605\nData Mining\nBDSA 610\nData Visualization\nThird Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBDSA 609\nThesis\n\nDocument hierarchy:\nMaster of Science in Environmental Chemistry Program > Program Objectives\n\nProgram Objectives\n1. Hold professional research positions in the educational, petrochemical,\nenvironmental, medical, pharmaceutical fields, as well as other industries\nwith chemical research and development.\n2. Continue graduate studies in chemical sciences.\n3. Debate on the importance of chemical research for achieving sustainable\neconomic and welfare.\n4. Build internship with Bahrain society through collaborative research."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 10,
+    "title": "Master of Science in Environmental Chemistry Program",
+    "section": "Program Intended Learning Outcomes",
+    "heading_path": [
+      "Master of Science in Environmental Chemistry Program",
+      "Program Intended Learning Outcomes"
+    ],
+    "chunk_index": 27,
+    "text": "Program Intended Learning Outcomes\n1. Critically analyze the underlying science behind the chemistry of the\nenvironment.\n2. Analytically evaluate recent advances in the environmental chemistry.\n3. Construct arguments and present scientific ideas to their peers.\n4. Examine their level of attainment in defined attributes and skills through the\nuse of reflective practice.\n5. Devise solutions to unfamiliar types of problems through the adaptation of\nexisting methodologies.\n6. Critically examine and categorize an area of the scientific literature.",
+    "embedding_text": "Previous page context:\nA 604\nMachine Learning\nBDSA 605\nData Mining\nBDSA 610\nData Visualization\nThird Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBDSA 609\nThesis\n\nDocument hierarchy:\nMaster of Science in Environmental Chemistry Program > Program Intended Learning Outcomes\n\nProgram Intended Learning Outcomes\n1. Critically analyze the underlying science behind the chemistry of the\nenvironment.\n2. Analytically evaluate recent advances in the environmental chemistry.\n3. Construct arguments and present scientific ideas to their peers.\n4. Examine their level of attainment in defined attributes and skills through the\nuse of reflective practice.\n5. Devise solutions to unfamiliar types of problems through the adaptation of\nexisting methodologies.\n6. Critically examine and categorize an area of the scientific literature."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 10,
+    "title": "Master of Science in Environmental Chemistry Program",
+    "section": "Required Specialization for Program Admission",
+    "heading_path": [
+      "Master of Science in Environmental Chemistry Program",
+      "Required Specialization for Program Admission"
+    ],
+    "chunk_index": 28,
+    "text": "Required Specialization for Program Admission\n• Bachelor degree in Chemistry, Chemical Engineering, Biochemistry, Biology,\nPhysics or Equivalent.",
+    "embedding_text": "Previous page context:\nA 604\nMachine Learning\nBDSA 605\nData Mining\nBDSA 610\nData Visualization\nThird Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nBDSA 609\nThesis\n\nDocument hierarchy:\nMaster of Science in Environmental Chemistry Program > Required Specialization for Program Admission\n\nRequired Specialization for Program Admission\n• Bachelor degree in Chemistry, Chemical Engineering, Biochemistry, Biology,\nPhysics or Equivalent."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 11,
+    "title": "Master of Science in Environmental Chemistry Program",
+    "section": "First Semester",
+    "heading_path": [
+      "Master of Science in Environmental Chemistry Program",
+      "First Semester"
+    ],
+    "chunk_index": 29,
+    "text": "First Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nCHEMY 610\nResearch Methodology and Seminars\nCHEMY 611\nIntroduction to Environmental Chemistry\nCHEMY 612\nEnvironmentally Benign Technology",
+    "embedding_text": "Previous page context:\nmethodologies.\n6. Critically examine and categorize an area of the scientific literature.\nRequired Specialization for Program Admission\n• Bachelor degree in Chemistry, Chemical Engineering, Biochemistry, Biology,\nPhysics or Equivalent.\n\nDocument hierarchy:\nMaster of Science in Environmental Chemistry Program > First Semester\n\nFirst Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nCHEMY 610\nResearch Methodology and Seminars\nCHEMY 611\nIntroduction to Environmental Chemistry\nCHEMY 612\nEnvironmentally Benign Technology"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 11,
+    "title": "Master of Science in Environmental Chemistry Program",
+    "section": "Second Semester",
+    "heading_path": [
+      "Master of Science in Environmental Chemistry Program",
+      "Second Semester"
+    ],
+    "chunk_index": 30,
+    "text": "Second Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nCHEMY 613\nEnvironmental Analytical Techniques\nCHEMY xxx\nElective 1\nCHEMY xxx\nElective 2",
+    "embedding_text": "Previous page context:\nmethodologies.\n6. Critically examine and categorize an area of the scientific literature.\nRequired Specialization for Program Admission\n• Bachelor degree in Chemistry, Chemical Engineering, Biochemistry, Biology,\nPhysics or Equivalent.\n\nDocument hierarchy:\nMaster of Science in Environmental Chemistry Program > Second Semester\n\nSecond Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nCHEMY 613\nEnvironmental Analytical Techniques\nCHEMY xxx\nElective 1\nCHEMY xxx\nElective 2"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 11,
+    "title": "Master of Science in Environmental Chemistry Program",
+    "section": "Third Semester",
+    "heading_path": [
+      "Master of Science in Environmental Chemistry Program",
+      "Third Semester"
+    ],
+    "chunk_index": 31,
+    "text": "Third Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nCHEMY xxx\nElective 3\nCHEMY xxx\nElective 4",
+    "embedding_text": "Previous page context:\nmethodologies.\n6. Critically examine and categorize an area of the scientific literature.\nRequired Specialization for Program Admission\n• Bachelor degree in Chemistry, Chemical Engineering, Biochemistry, Biology,\nPhysics or Equivalent.\n\nDocument hierarchy:\nMaster of Science in Environmental Chemistry Program > Third Semester\n\nThird Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nCHEMY xxx\nElective 3\nCHEMY xxx\nElective 4"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 11,
+    "title": "Master of Science in Environmental Chemistry Program",
+    "section": "Fourth  Semester",
+    "heading_path": [
+      "Master of Science in Environmental Chemistry Program",
+      "Fourth  Semester"
+    ],
+    "chunk_index": 32,
+    "text": "Fourth  Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nCHEMY 622\nThesis",
+    "embedding_text": "Previous page context:\nmethodologies.\n6. Critically examine and categorize an area of the scientific literature.\nRequired Specialization for Program Admission\n• Bachelor degree in Chemistry, Chemical Engineering, Biochemistry, Biology,\nPhysics or Equivalent.\n\nDocument hierarchy:\nMaster of Science in Environmental Chemistry Program > Fourth  Semester\n\nFourth  Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nCHEMY 622\nThesis"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 12,
+    "title": "Master of Science in Environmental Chemistry Program",
+    "section": "Electives Course List",
+    "heading_path": [
+      "Master of Science in Environmental Chemistry Program",
+      "Electives Course List"
+    ],
+    "chunk_index": 33,
+    "text": "Electives Course List\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nCHEMY614\nSolid Waste Management\nCHEMY615\nPhysicochemical Wastewater Treatment\nCHEMY616\nAtmospheric Chemistry\nCHEMY617\nOrganic Contaminants in the Environment\nCHEMY618\nCorrosion and Environment\nCHEMY619\nEnvironmental Impacts Of Energy\nNanomaterials for Environmental\nCHEMY620\nRemediation\nCHEMY621\nIndustrial Effluents And Emission Analysis",
+    "embedding_text": "Previous page context:\nC.\nPRAC\nCRD\nCHEMY xxx\nElective 3\nCHEMY xxx\nElective 4\nFourth  Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nCHEMY 622\nThesis\n\nDocument hierarchy:\nMaster of Science in Environmental Chemistry Program > Electives Course List\n\nElectives Course List\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nCHEMY614\nSolid Waste Management\nCHEMY615\nPhysicochemical Wastewater Treatment\nCHEMY616\nAtmospheric Chemistry\nCHEMY617\nOrganic Contaminants in the Environment\nCHEMY618\nCorrosion and Environment\nCHEMY619\nEnvironmental Impacts Of Energy\nNanomaterials for Environmental\nCHEMY620\nRemediation\nCHEMY621\nIndustrial Effluents And Emission Analysis"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 13,
+    "title": "Doctor of Philosophy in Environment and Sustainable Development",
+    "section": "Program Objectives",
+    "heading_path": [
+      "Doctor of Philosophy in Environment and Sustainable Development",
+      "Program Objectives"
+    ],
+    "chunk_index": 34,
+    "text": "Program Objectives\n1.Qualify for decision makers, academics, and environmental managers in the\nfields of environment and sustainable development.\n2. Advance knowledge and research aspects in sustainable development,\nnationally and internationally.\n3. Contribute effectively to social, economic and environmental well-being.",
+    "embedding_text": "Previous page context:\nCHEMY618\nCorrosion and Environment\nCHEMY619\nEnvironmental Impacts Of Energy\nNanomaterials for Environmental\nCHEMY620\nRemediation\nCHEMY621\nIndustrial Effluents And Emission Analysis\n\nDocument hierarchy:\nDoctor of Philosophy in Environment and Sustainable Development > Program Objectives\n\nProgram Objectives\n1.Qualify for decision makers, academics, and environmental managers in the\nfields of environment and sustainable development.\n2. Advance knowledge and research aspects in sustainable development,\nnationally and internationally.\n3. Contribute effectively to social, economic and environmental well-being."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 13,
+    "title": "Doctor of Philosophy in Environment and Sustainable Development",
+    "section": "Program Intended Learning Outcomes",
+    "heading_path": [
+      "Doctor of Philosophy in Environment and Sustainable Development",
+      "Program Intended Learning Outcomes"
+    ],
+    "chunk_index": 35,
+    "text": "Program Intended Learning Outcomes\n1. Implement advanced and recent knowledge in the fields of environment and\nsustainable development.\n2. Critically analyze complex environmental and development problems and\npropose alternative solutions.\n3. Conduct integrated assessments for national, regional, or international\nenvironmental challenges.\n4. Analyze contemporary developments associated with 2030 Agenda for\nSustainable Development.\n5. Apply advanced qualitative and quantitative research methods in fields of\nenvironment and sustainable development.\n6. Conduct original research in the fields of environment and sustainable\ndevelopment\n7. Effectively disseminate research results both orally and in writing in\naccordance to academic standards and ethics..",
+    "embedding_text": "Previous page context:\nCHEMY618\nCorrosion and Environment\nCHEMY619\nEnvironmental Impacts Of Energy\nNanomaterials for Environmental\nCHEMY620\nRemediation\nCHEMY621\nIndustrial Effluents And Emission Analysis\n\nDocument hierarchy:\nDoctor of Philosophy in Environment and Sustainable Development > Program Intended Learning Outcomes\n\nProgram Intended Learning Outcomes\n1. Implement advanced and recent knowledge in the fields of environment and\nsustainable development.\n2. Critically analyze complex environmental and development problems and\npropose alternative solutions.\n3. Conduct integrated assessments for national, regional, or international\nenvironmental challenges.\n4. Analyze contemporary developments associated with 2030 Agenda for\nSustainable Development.\n5. Apply advanced qualitative and quantitative research methods in fields of\nenvironment and sustainable development.\n6. Conduct original research in the fields of environment and sustainable\ndevelopment\n7. Effectively disseminate research results both orally and in writing in\naccordance to academic standards and ethics.."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 13,
+    "title": "Doctor of Philosophy in Environment and Sustainable Development",
+    "section": "Required Specialization for Program Admission",
+    "heading_path": [
+      "Doctor of Philosophy in Environment and Sustainable Development",
+      "Required Specialization for Program Admission"
+    ],
+    "chunk_index": 36,
+    "text": "Required Specialization for Program Admission\n• M.Sc Degree in any specializations.",
+    "embedding_text": "Previous page context:\nCHEMY618\nCorrosion and Environment\nCHEMY619\nEnvironmental Impacts Of Energy\nNanomaterials for Environmental\nCHEMY620\nRemediation\nCHEMY621\nIndustrial Effluents And Emission Analysis\n\nDocument hierarchy:\nDoctor of Philosophy in Environment and Sustainable Development > Required Specialization for Program Admission\n\nRequired Specialization for Program Admission\n• M.Sc Degree in any specializations."
+  },
+  {
+    "source": "Science.pdf",
+    "page": 14,
+    "title": "Doctor of Philosophy in Environment and Sustainable Development",
+    "section": "First Semester",
+    "heading_path": [
+      "Doctor of Philosophy in Environment and Sustainable Development",
+      "First Semester"
+    ],
+    "chunk_index": 37,
+    "text": "First Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 701\nEnvironment and Sustainability\nESD 704\nAdvanced Environmental Research Skills\nESD 703\nSustainable Development Goals",
+    "embedding_text": "Previous page context:\nsustainable\ndevelopment\n7. Effectively disseminate research results both orally and in writing in\naccordance to academic standards and ethics..\nRequired Specialization for Program Admission\n• M.Sc Degree in any specializations.\n\nDocument hierarchy:\nDoctor of Philosophy in Environment and Sustainable Development > First Semester\n\nFirst Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 701\nEnvironment and Sustainability\nESD 704\nAdvanced Environmental Research Skills\nESD 703\nSustainable Development Goals"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 14,
+    "title": "Doctor of Philosophy in Environment and Sustainable Development",
+    "section": "Second Semester",
+    "heading_path": [
+      "Doctor of Philosophy in Environment and Sustainable Development",
+      "Second Semester"
+    ],
+    "chunk_index": 38,
+    "text": "Second Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nEnvironment\nand\nSustainability\nESD 702\nAssessment\nESD 705\nSustainable Resources Management\nESD 706\nEnvironmental policies and governance",
+    "embedding_text": "Previous page context:\nsustainable\ndevelopment\n7. Effectively disseminate research results both orally and in writing in\naccordance to academic standards and ethics..\nRequired Specialization for Program Admission\n• M.Sc Degree in any specializations.\n\nDocument hierarchy:\nDoctor of Philosophy in Environment and Sustainable Development > Second Semester\n\nSecond Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nEnvironment\nand\nSustainability\nESD 702\nAssessment\nESD 705\nSustainable Resources Management\nESD 706\nEnvironmental policies and governance"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 14,
+    "title": "Doctor of Philosophy in Environment and Sustainable Development",
+    "section": "Third Semester",
+    "heading_path": [
+      "Doctor of Philosophy in Environment and Sustainable Development",
+      "Third Semester"
+    ],
+    "chunk_index": 39,
+    "text": "Third Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 707\nGlobal Environmental Issues\nESD 719\nThesis I",
+    "embedding_text": "Previous page context:\nsustainable\ndevelopment\n7. Effectively disseminate research results both orally and in writing in\naccordance to academic standards and ethics..\nRequired Specialization for Program Admission\n• M.Sc Degree in any specializations.\n\nDocument hierarchy:\nDoctor of Philosophy in Environment and Sustainable Development > Third Semester\n\nThird Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 707\nGlobal Environmental Issues\nESD 719\nThesis I"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 14,
+    "title": "Doctor of Philosophy in Environment and Sustainable Development",
+    "section": "Fourth Semester",
+    "heading_path": [
+      "Doctor of Philosophy in Environment and Sustainable Development",
+      "Fourth Semester"
+    ],
+    "chunk_index": 40,
+    "text": "Fourth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 729\nThesis II",
+    "embedding_text": "Previous page context:\nsustainable\ndevelopment\n7. Effectively disseminate research results both orally and in writing in\naccordance to academic standards and ethics..\nRequired Specialization for Program Admission\n• M.Sc Degree in any specializations.\n\nDocument hierarchy:\nDoctor of Philosophy in Environment and Sustainable Development > Fourth Semester\n\nFourth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 729\nThesis II"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 15,
+    "title": "Doctor of Philosophy in Environment and Sustainable Development",
+    "section": "Fifth Semester",
+    "heading_path": [
+      "Doctor of Philosophy in Environment and Sustainable Development",
+      "Fifth Semester"
+    ],
+    "chunk_index": 41,
+    "text": "Fifth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 739\nThesis III",
+    "embedding_text": "Previous page context:\nC.\nPRAC\nCRD\nESD 707\nGlobal Environmental Issues\nESD 719\nThesis I\nFourth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 729\nThesis II\n\nDocument hierarchy:\nDoctor of Philosophy in Environment and Sustainable Development > Fifth Semester\n\nFifth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 739\nThesis III"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 15,
+    "title": "Doctor of Philosophy in Environment and Sustainable Development",
+    "section": "Sixth Semester",
+    "heading_path": [
+      "Doctor of Philosophy in Environment and Sustainable Development",
+      "Sixth Semester"
+    ],
+    "chunk_index": 42,
+    "text": "Sixth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 749\nThesis IV",
+    "embedding_text": "Previous page context:\nC.\nPRAC\nCRD\nESD 707\nGlobal Environmental Issues\nESD 719\nThesis I\nFourth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 729\nThesis II\n\nDocument hierarchy:\nDoctor of Philosophy in Environment and Sustainable Development > Sixth Semester\n\nSixth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 749\nThesis IV"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 15,
+    "title": "Doctor of Philosophy in Environment and Sustainable Development",
+    "section": "Seventh Semester",
+    "heading_path": [
+      "Doctor of Philosophy in Environment and Sustainable Development",
+      "Seventh Semester"
+    ],
+    "chunk_index": 43,
+    "text": "Seventh Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 759\nThesis V",
+    "embedding_text": "Previous page context:\nC.\nPRAC\nCRD\nESD 707\nGlobal Environmental Issues\nESD 719\nThesis I\nFourth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 729\nThesis II\n\nDocument hierarchy:\nDoctor of Philosophy in Environment and Sustainable Development > Seventh Semester\n\nSeventh Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 759\nThesis V"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 15,
+    "title": "Doctor of Philosophy in Environment and Sustainable Development",
+    "section": "Eighth Semester",
+    "heading_path": [
+      "Doctor of Philosophy in Environment and Sustainable Development",
+      "Eighth Semester"
+    ],
+    "chunk_index": 44,
+    "text": "Eighth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 769\nThesis VI",
+    "embedding_text": "Previous page context:\nC.\nPRAC\nCRD\nESD 707\nGlobal Environmental Issues\nESD 719\nThesis I\nFourth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 729\nThesis II\n\nDocument hierarchy:\nDoctor of Philosophy in Environment and Sustainable Development > Eighth Semester\n\nEighth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 769\nThesis VI"
+  },
+  {
+    "source": "Science.pdf",
+    "page": 16,
+    "title": "Doctor of Philosophy in Environment and Sustainable Development",
+    "section": "Eighth Semester",
+    "heading_path": [
+      "Doctor of Philosophy in Environment and Sustainable Development",
+      "Eighth Semester"
+    ],
+    "chunk_index": 45,
+    "text": "For more information, please contact the following address:\nDeanship of Graduate Studies & Scientific Research\nTel: 17435033\nEmail: pg.studies@uob.edu.bh",
+    "embedding_text": "Previous page context:\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 759\nThesis V\nEighth Semester\nCourse Hours\nCourse Code\nCourse Title\nLEC.\nPRAC\nCRD\nESD 769\nThesis VI\n\nDocument hierarchy:\nDoctor of Philosophy in Environment and Sustainable Development > Eighth Semester\n\nFor more information, please contact the following address:\nDeanship of Graduate Studies & Scientific Research\nTel: 17435033\nEmail: pg.studies@uob.edu.bh"
+  }
+]

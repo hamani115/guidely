@@ -1,0 +1,2099 @@
+
+
+################################################################################
+DOCUMENT: Business-Admin.pdf
+################################################################################
+
+Page 1
+  -> Programs
+  -> College of Business Administration
+  -> University of Bahrain
+  -> Deanship of Graduate Studies & Scienti/f_ic Research
+  -> Postgraduate Studies
+
+Page 2
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> Master of Business Administration Program
+
+Page 3
+  -> Study Plan
+  -> Background Courses
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACCM500 Financial Accounting 3 0 0
+  -> ECONM500 Survey of Economics 3 0 0
+  -> FINM500 Managerial Finance 3 0 0
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MGT 630 Organizational Design and Behavior 3 0 3
+  -> FIN 620 Corporate Finance 3 0 3
+  -> MKT 660 Marketing Management 3 0 3
+  -> QM 650 Research Methods and Statistical Analysis 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MGT631 Human Resource Management 3 0 3
+  -> MGT632 Innovation and Entrepreneurship 3 0 3
+  -> ACC611 Managerial Accounting 3 0 3
+  -> QM651 Data Analytics and Decision Making 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MGT635 Business Ethics 3 0 3
+  -> MGT638 Business Strategy 3 0 3
+  -> MGT694 Capstone Consulting Project 6 0 6
+
+Page 4
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> Master of Science in Human Resource
+  -> Management Program
+
+Page 5
+  -> Study Plan
+  -> Background Courses
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACCM500 Financial Accounting 3 0 0
+  -> ECONM500 Survey of Economics 3 0 0
+  -> FINM500 Managerial Finance 3 0 0
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MGT 631 Human Resources Management 3 0 3
+  -> MGT 680 Compensation and Performance
+  -> Management 3 0 3
+  -> MGT 681 Labor and Civil Service Regulations 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MGT 682 Strategic Human Resource Management 3 0 3
+  -> MGT683 International Human Resource
+  -> Management 3 0 3
+  -> QM650 Research Methods and Statistical Analysis 3 0 3
+  -> Third  Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MGT 695 Thesis 9 0 9
+
+Page 6
+  -> Electives Course List
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MGT634 Organizational Change and Development 3 0 3
+  -> MGT635 Business Ethics 3 0 3
+  -> MGT630 Organizational Design and Behavior 3 0 3
+  -> MGT632 Innovation and Entrepreneurship 3 0 3
+  -> MGT638 Business Strategy 3 0 3
+  -> QM651 Data Analytics and Decision Making 3 0 3
+  -> MGT684 Leeadership Skills and Innovation 3 0 3
+
+Page 7
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Program
+
+Page 8
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> Background Courses
+  -> Course Code Course Title Course Hours
+  -> LEC. PRAC CRD
+  -> ACCM500 Financial Accounting 3 0 0
+  -> ECONM500 Survey of Economics 3 0 0
+  -> FINM500 Managerial Finance 3 0 0
+
+Page 9
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> FIN 620 Corporate Finance 3 0 3
+  -> FIN 628 Capital Market Analysis 3 0 3
+  -> FIN 635  Research Methods & Financial
+  -> Econometrics 3 0 3
+  -> FIN 632 Fixed Income Investment 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> FIN 622  Portfolio Management And International
+  -> Investment 3 0 3
+  -> FIN 624 Financial Risk Management 3 0 3
+  -> FIN 6XX Elective Course 1 3 0 3
+  -> FIN 6XX Elective Course 2 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> FIN695 Thesis 0 27 9
+  -> Electives Course List
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> FIN 630 Behavioral Finance 3 0 3
+  -> FIN 629 Current Issues In Finance 3 0 3
+  -> FIN 631 Financial Derivatives 3 0 3
+  -> FIN 641 Fundamentals Of Financial Technology 3 0 3
+  -> FIN 634 Sustainable And Green Finance 3 0 3
+
+Page 10
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Master of Science in Accounting Program
+
+Page 11
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> Background Courses
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACCM500 Financial Accounting 3 0 0
+  -> ACCM501 Intermediate Accounting 3 0 0
+  -> ACCM502 Auditing and Assurance Services 3 0 0
+
+Page 12
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACC610 Advanced Financial Accounting 3 0 3
+  -> ACC612 Financial Reporting and Analysis 3 0 3
+  -> ACC620 Advanced Managerial Accounting and
+  -> Decision Making 3 0 3
+  -> FIN635 Research Methods and Financial
+  -> Econometrics 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACC622 Advanced Auditing Theory and Practice 3 0 3
+  -> ACC625 Seminar on Applied Research in
+  -> Accounting 3 0 3
+  -> ACC6XX/ FIN6XX Elective course 3 0 3
+  -> ACC6XX/ FIN6XX Elective course 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACC695 Thesis 0 27 9
+
+Page 13
+  -> Electives Course List
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACC628 International Accounting and Taxation 3 0 3
+  -> ACC630 Sustainability Accounting and Reporting 3 0 3
+  -> ACC633 Data Analytics for Accounting 3 0 3
+  -> FIN641 Fundamentals of Financial Technology 3 0 3
+  -> FIN646 Financial Analytics and Machine Learning 3 0 3
+
+Page 14
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Finance Program
+
+Page 15
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> Background Courses
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACCM500 Financial Accounting 3 0 0
+  -> FINM500 Managerial Finance 3 0 0
+  -> SBFM500  Introduction to Islamic Commercial
+  -> Jurisprudence 3 0 0
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> SBF670 Islamic Commercial Jurisprudence 3 0 3
+  -> SBF680 Islamic Economics & Financial System 3 0 3
+  -> SBF681 Advanced Sharia Standards 3 0 3
+  -> SBF682 Applied Islamic Banking & Risk
+  -> Management 3 0 3
+
+Page 16
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> SBF683 Islamic Financial Instruments & Models 3 0 3
+  -> SBF684 Digital Islamic Finance & Blockchain 3 0 3
+  -> SBF685 Islamic Accounting, Governance & Ethics 3 0 3
+  -> FIN635 Research Methods & Financial
+  -> Econometrics 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> SBF695 Thesis 0 27 9
+
+Page 17
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Master of Science in Financial Technology
+
+Page 18
+  -> Required Specializations for Program Admission
+  -> •	 Information	Technology
+  -> •	 Engineering
+  -> •	 Mathematics
+  -> Study Plan
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACCM500 FUNDAMENTAL ACCOUNTING 3 0 0
+  -> ECONM500 SURVEY OF ECONOMICS 3 0 0
+  -> FINM500 MANAGERIAL FINANCE 3 0 0
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> FIN641  FUNDAMENTALS OF FINANCIAL
+  -> TECHNOLOGY 3 0 3
+  -> FIN642 BLOCKCHAIN AND APPLICATIONS 3 0 3
+  -> FIN620 CORPORATE FINANCE 3 0 3
+
+Page 19
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> FIN622  PORTFOLIO MANAGEMENT AND
+  -> INTERNATIONAL INVESTMENTS 3 0 3
+  -> FIN621 MONEY, BANKING, FINANCIAL MARKETS 3 0 3
+  -> FIN643 PAYMENTS AND CRYPTOCURRENCIES 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> FIN645 BIG DATA IN FINANCE 3 0 3
+  -> FIN644 CYBER SECURITY/ CRYPTOGRAPHY 3 0 3
+  -> FIN646  FINANCIAL ANALYTICS AND MACHINE
+  -> LEARNING 3 0 3
+  -> Fourth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> FIN694 CAPSTONE CONSULTING PROJECT 0 18 6
+
+Page 20
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> Master of Science in Real Estate Investment
+
+Page 21
+  -> Study Plan
+  -> Background Courses
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACCM500 Financial Accounting 3 0 0
+  -> ECONM500 Survey of Economics 3 0 0
+  -> FINM500 Managerial Finance 3 0 0
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> RES 621 Real Estate Law 3 0 3
+  -> RES 622 Real Estate Finance and Investment 3 0 3
+  -> RES 624 Urban Economics 3 0 3
+  -> QM 650 Research Methods and Statistical Analysis 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> RES 628 Real Estate Development and Management 3 0 3
+  -> RES 629 Blockchain in Real Estate 3 0 3
+
+Page 22
+  -> Third  Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> RES 695* Thesis                              0 0 9
+  -> Electives Course List
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> RES626 Real Estate and Property Market Analysis 3 0 3
+  -> RES627  Seminar in Real Estate Development and
+  -> Property Management 3 0 3
+  -> FIN620 Corporate Finance 3 0 3
+  -> SBF670 Islamic Commercial Jurisprudence 3 0 3
+  -> MGT635 Business Ethics 3 0 3
+  -> ACC610 Advanced Financial Accounting 3 0 3
+  -> ARCS 622 Sustainable Building Design 3 0 3
+
+Page 23
+  -> Program Objectives
+  -> Program Intended Learning Outcomes- PILOs
+  -> Doctor of Philosophy in Business Analytics
+  -> Program
+
+Page 24
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> QM701 Big Data Applications and Analytics 3 0 0
+  -> QM702 Artificial Intelligence 3 0 0
+  -> QM703 Machine Learning 3 0 0
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> BUS790 Data Science for Business Research 3 0 3
+  -> BUS791 Research Methodologies 3 0 3
+  -> BUS792 Applied Business Analytics 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> BUS793 Ethical AI and Governance 3 0 3
+  -> BUS794 Advanced Topics in Optimization and
+  -> Simulation 3 0 3
+  -> BUS795 Seminar on Contemporary Topics in
+  -> Business Analytics 3 0 3
+  -> BUS796 Data-Driven Decision Making techniques
+  -> in Business Analytics 3 0 3
+
+Page 25
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> BUS797 Thesis proposal in Business Analytics 6 0 6
+  -> MGT Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MGTBAA798 Doctor of Philosophy Thesis in
+  -> Management 0 36 12
+  -> MKT Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MKTBAA798 Doctor of Philosophy Thesis in Marketing 0 36 12
+  -> Finance Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> FINBAA798 Doctor of Philosophy Thesis in Finance 0 36 12
+  -> Accounting Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACCBAA798 Doctor of Philosophy Thesis in Accounting 0 36 12
+
+Page 26
+  -> Islamic Finance Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> SBFBAA798 Doctor of Philosophy Thesis in Islamic
+  -> Finance 0 36 12
+  -> Fifth Semester
+  -> Management Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MGTBAB798 Doctor of Philosophy Thesis in
+  -> Management 0 36 12
+  -> Marketing Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MKTBAB798 Doctor of Philosophy Thesis in Marketing 0 36 12
+  -> Finance Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> FINBAB798 Doctor of Philosophy Thesis in Finance 0 36 12
+  -> Accounting Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACCBAB798 Doctor of Philosophy Thesis in Accounting 0 36 12
+
+Page 27
+  -> Islamic Finance Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> SBFBAB798 Doctor of Philosophy Thesis in Islamic
+  -> Finance 0 36 12
+  -> Sixth Semester
+  -> Management Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MGTBAC798 Doctor of Philosophy Thesis in
+  -> Management 0 36 12
+  -> Marketing Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MGTBAC798 Doctor of Philosophy Thesis in Marketing 0 36 12
+  -> Finance Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> FINBAC798 Doctor of Philosophy Thesis in Finance 0 36 12
+  -> Accounting Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACCBAC798 Doctor of Philosophy Thesis in Accounting 0 36 12
+
+Page 28
+  -> Islamic Finance Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> SBFBAC798 Doctor of Philosophy Thesis in Islamic
+  -> Finance 0 36 12
+  -> Seventh Semester
+  -> Management Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MGTBAD798 Doctor of Philosophy Thesis in
+  -> Management 0 36 12
+  -> Marketing Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MKTBAD798 Doctor of Philosophy Thesis in Marketing 0 36 12
+  -> Finance Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> FINBAD798 Doctor of Philosophy Thesis in Finance 0 36 12
+  -> Accounting Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ACCBAD798 Doctor of Philosophy Thesis in Accounting 0 36 12
+
+Page 29
+  -> Islamic Finance Track:
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> SBFBAD798 Doctor of Philosophy Thesis in Islamic
+  -> Finance 0 36 12
+
+Page 30
+  -> Deanship of Graduate Studies & Scientific Research
+  -> Tel: 17435033
+
+Detected headings: 443
+
+
+################################################################################
+DOCUMENT: Engineering.pdf
+################################################################################
+
+Page 1
+  -> Programs
+  -> Postgraduate
+  -> Studies
+  -> College of Engineering
+  -> University of Bahrain
+  -> Deanship of Graduate Studies & Scienti/f_ic Research
+
+Page 2
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> Master of Science in Mechanical Engineering
+
+Page 3
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MENG600 Advanced Numerical Methods for
+  -> Mechanical Engineers 4 0 4
+  -> MENG601 Artificial intelligence for Advanced
+  -> Mechanical Engineering 4 0 4
+  -> MENG602 Research Methods in Engineering 4 0 4
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MENG6XX Major Elective I 4 0 4
+  -> MENG6XX Major Elective II 4 0 4
+  -> MENG6XX Major Elective III 4 0 4
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MENG698  Thesis 0 36 12
+
+Page 4
+  -> Elective Courses
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> MENG611 Contemporary Cooling Technologies 4 0 4
+  -> MENG612 Smart Materials and Structures 4 0 4
+  -> MENG613 Technologies for Contemporary & Future
+  -> Manufacturing 4 0 4
+  -> MENG614 Computational Fluid Dynamics 4 0 4
+  -> MENG615 Classical Continuum Mechanics 4 0 4
+  -> MENG616 Advance Thermodynamics 4 0 4
+  -> MENG617 Mechanics of Laminated Composites 4 0 4
+  -> MENG618 Solar Thermal Technologies 4 0 4
+  -> MENG619 Additive Manufacturing 4 0 4
+  -> MENG620 Entrepreneurship: Crafting Business
+  -> Journey 4 0 4
+  -> MENG621 Renewable Energy Sources 4 0 4
+  -> MENG622 Quality Improvement 4 0 4
+  -> MENG623 Reliability and Maintainability 4 0 4
+  -> MENG624 Advanced Mechanical Vibration 4 0 4
+  -> MENG625 Aerodynamics 4 0 4
+  -> MENG626 Applied Heat and Mass Transfer 4 0 4
+  -> MENG627 Robotics and Automation 4 0 4
+  -> MENG628 Advanced Finite Element Analysis and
+  -> Design 4 0 4
+  -> MENG629 Industry 4.0 for Mechanical Engineers 4 0 4
+  -> MENG630 Fracture Mechanics 4 0 4
+  -> MENG631 Special Topics 4 0 4
+
+Page 5
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Master of Science in Chemical Engineering
+
+Page 6
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CHEN 611 Advanced Transport Phenomena 4 0 4
+  -> CHEN 612 Advanced Process Thermodynamics 4 0 4
+  -> CHEN 613 Advanced Mathematical Methods for
+  -> Chemical Engineers 4 0 4
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CHEN 614 Advanced Chemical Reaction Engineering 4 0 4
+  -> CHEN 6xx Elective Course 4 0 4
+  -> CHEN 6xx Elective Course 4 0 4
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CHEN 698  MSc Thesis 0 36 12
+
+Page 7
+  -> Elective Courses
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CHEN 621 Process Safety and Risk Analysis 4 0 4
+  -> CHEN 622 Process Measurement and Data Managemen 4 0 4
+  -> CHEN 623 Process and Energy Integration 4 0 4
+  -> CHEN 624 Water Desalination 4 0 4
+  -> CHEN 625 Process Optimization 4 0 4
+  -> CHEN 626 Advanced Reservoir Engineering 4 0 4
+  -> CHEN 627 Advances in Petroleum Refinery Engineering 4 0 4
+  -> CHEN 628 Corrosion Management and Control 4 0 4
+  -> CHEN 629 Computer Process Control 4 0 4
+  -> CHEN 630 Fuel Cell Science and Engineering 4 0 4
+  -> CHEN 631 Environmental Engineering 4 0 4
+  -> CHEN 632 Biotechnology Applications in Process
+  -> Engineering 4 0 4
+  -> CHEN 633 Advances in Petrochemical Processing 4 0 4
+  -> CHEN 634 Application of Artificial Intelligence in
+  -> Chemical Engineering 4 0 4
+  -> CHEN 635 Special Topics 4 0 4
+
+Page 8
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Master of Science in Civil Engineering
+
+Page 9
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CENG601 Research Methodology 3 0 3
+  -> CENG602 Advanced Numerical Analysis 3 0 3
+  -> CENG603 Artificial Intelligence Applications in Civil
+  -> Engineering 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CENGXXX Elective Course from Field of Specialization 3 0 3
+  -> CENGXXX Elective Course from Field of Specialization 3 0 3
+  -> CENGXXX Elective Course from Field of Specialization 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CENGXXX Elective Course from Field of Specialization 3 0 3
+  -> CENGXXX Elective Course from Field of Specialization 3 0 3
+  -> Fourth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CENG699 Masters Thesis 0 36 12
+
+Page 10
+  -> Elective Courses
+  -> Structural Engineering Track
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CENG611 Advanced Mechanics of Materials 3 0 3
+  -> CENG612 Plates and Shells 3 0 3
+  -> CENG613 Matrix Structural Analysis 3 0 3
+  -> CENG614 Finite Element Methods 3 0 3
+  -> CENG615 Structural Stability 3 0 3
+  -> CENG616 Structural Dynamics 3 0 3
+  -> CENG617 Advanced Steel Design 3 0 3
+  -> CENG618 Pre-Stressed Concrete 3 0 3
+  -> CENG619 Shallow and Deep Foundations 3 0 3
+  -> CENG620 Bridge Engineering 3 0 3
+  -> CENG621 Advanced Reinforced Concrete Design 3 0 3
+  -> Water Resources and Environmental Engineering Track
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CENG631 Advanced Hydrogeology 3 0 3
+  -> CENG632 Desalination and Advanced Wastewater
+  -> Treatment 3 0 3
+  -> CENG633 Rainfall-Runoff Modeling 3 0 3
+  -> CENG634 Sludge and Solid Waste Managemen 3 0 3
+  -> CENG635 Sustainable Water Resources Management 3 0 3
+  -> CENG636 Environmental Fluid Mechanics 3 0 3
+  -> CENG637 Groundwater Contamination and Pollutant
+  -> Transport 3 0 3
+  -> CENG638 Stochastic Water Resources Management 3 0 3
+  -> CENG639 Irrigation Engineering for Arid Climates 3 0 3
+  -> CENG640 Advanced Environmental Engineering 3 0 3
+
+Page 11
+  -> Transportation Engineering Track
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CENG620 Bridge Engineering 3 0 3
+  -> CENG651 Pavement Design 3 0 3
+  -> CENG652 Advanced Traffic Engineering 3 0 3
+  -> CENG653 Transportation Planning and Modeling 3 0 3
+  -> CENG654 Road Safety Analysis 3 0 3
+  -> CENG655 Public Mass Transportation Systems 3 0 3
+  -> CENG656 Road Traffic Management 3 0 3
+
+Page 12
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> Master of Science in Engineering
+  -> Management
+
+Page 13
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> IEN601 Statistical Data Analysis and Research
+  -> Methods 4 0 4
+  -> IEN602 Operations Management 4 0 4
+  -> IEN605 Capital Budgeting 4 0 4
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> IEN611 Quality Improvement 4 0 4
+  -> IEN612 Modern Project Management 4 0 4
+  -> IEN6XX Major Elective Course 4 0 4
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> IEN698 Thesis 0 36 12
+
+Page 14
+  -> Elective Course
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> IEN613 Deterministic Operations Research 4 0 4
+  -> IEN614 Reliability and Maintainability 4 0 4
+  -> IEN615 Product development and System
+  -> Engineering 4 0 4
+  -> IEN616 Human Factors and Ergonomics 4 0 4
+  -> IEN617 Supply Chain Management 4 0 4
+  -> IEN618 Entrepreneurship: Crafting Business
+  -> Journey 4 0 4
+  -> IEN619 Managerial Accounting 4 0 4
+  -> IEN620 Human Resources Management 4 0 4
+  -> IEN621 Special Topics 4 0 4
+
+Page 15
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Master of Science in Renewable Energy
+  -> Engineering
+
+Page 16
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> REE 601 Renewable Energy Systems Fundamentals 4 0 4
+  -> EEM 601 Statistical Data Analysis and Research
+  -> Methods 4 0 4
+  -> REE 602 Photovoltaic Energy Systems 4 0 4
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> REE 603 Wind Energy Systems 4 0 4
+  -> REE 604 Solar Thermal Energy 4 0 4
+  -> REE 605 Special Topics in Renewable Energy
+  -> Engineering 4 0 4
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> EEM 699 Thesis 0 36 12
+
+Page 17
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> • Bachelor degree in Engineering/ Science/ Computer Science/ Management
+  -> Master of Science in Artificial Intelligence
+  -> Systems
+
+Page 18
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> EEM 600  Principles of Artificial Intelligence 4 0 4
+  -> EEM 601 Statistical Data Analysis and Research
+  -> Methods 4 0 4
+  -> EEM 602 Internet of Things (IoT) 4 0 4
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> AIE 603 Machine Learning 4 0 4
+  -> AIE 604 Deep Learning Applications 4 0 4
+  -> AIE 605 Special Topics in Artificial Intelligence 4 0 4
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> EEM 699 Thesis 0 36 12
+
+Page 19
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Master of Architecture
+
+Page 20
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ARCH 610 Architecture Phenomena 3 0 3
+  -> ARCH 611 Design & Community 3 0 3
+  -> ARCH 612 Research Methods 3 0 3
+  -> ARCH 614 Sustainable Built Environments 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ARCH 620 Pre Thesis 3 0 3
+  -> ARCH 622 Professional Practice 3 0 3
+  -> ARCH 62X Elective 1 3 0 3
+  -> ARCH 62X Elective 2 3 0 3
+
+Page 21
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ARCH 630 Thesis 0 18 6
+  -> ARCH 632 Advanced Technologies in Built
+  -> Environment 3 0 3
+  -> Elective Course
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ARCH 624 International Architecture and Global
+  -> Practices 3 0 3
+  -> ARCH 625 Experiential Design and Spatial Psychology 3 0 3
+  -> ARCH 626 Disaster Resilience and Emergency
+  -> Architecture 3 0 3
+  -> ARCH 627 Architectural Education and Pedagogy 3 0 3
+  -> ARCH 628 Heritage and Conservation 3 0 3
+
+Page 22
+  -> Program Objectives
+  -> Innovative Solutions}
+  -> Learning}
+  -> Program Intended Learning Outcomes
+  -> Master of Science in Telecommunications
+  -> and Networks Engineering
+
+Page 23
+  -> Required Specialization for Program Admission
+  -> • Electrical and Electronics Engineering
+  -> • Communication Engineering
+  -> • Computer Engineering
+  -> • Information and Communication Technology (ICT)
+  -> • Computer Science
+  -> • Software Engineering
+  -> • Artificial Intelligence
+  -> • Cybersecurity
+  -> • Data Science or Data Analytics
+  -> • Cloud Computing
+  -> • Computer Networks
+  -> • Information Systems / Informatics
+  -> • Communication and Information Technology
+  -> • Multimedia Systems Design and Development
+  -> • Information System Technology
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> EEM 600  Principles of Artificial Intelligence 4 0 4
+  -> EEM 601 Statistical Data Analysis and Research
+  -> Methods 4 0 4
+  -> EEM 602 Internet of Things (IoT) 4 0 4
+
+Page 24
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> TNE 603 Modern Telecommunications systems 4 0 4
+  -> TNE 604 Advanced computer Networks 4 0 4
+  -> TNE 605 Special topics in Communications 4 0 4
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> EEM 699 Thesis 0 36 12
+
+Page 25
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Master of Science in Sustainable Energy
+  -> Transition Systems
+
+Page 26
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> SETS 601 Energy Systems 4 0 4
+  -> SETS 602 Carbon Capture, Utilization, and Storage
+  -> (CCUS) 4 0 4
+  -> SETS 603 Corporate Finance, Accounting, and Policy
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> SETS 604 Advanced Energy Conversion 4 0 4
+  -> SETS 605 Digitalization for Energy Systems 4 0 4
+  -> SETS 6XX Elective 4 0 4
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> SETS 699 MSc Thesis 0 0 12
+
+Page 27
+  -> Elective Courses List
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> SETS 606 Biofuels and Biorefineries 4 0 4
+  -> SETS 607 Hydrogen Generation and Storage 4 0 4
+  -> SETS 608 Special Topics 4 0 4
+
+Page 28
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Master of Science in Power Systems
+  -> Engineering
+
+Page 29
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> REE 601 Renewable Energy Systems Fundamentals 4 0 4
+  -> PSE 601 Advanced Power Systems Engineering 4 0 4
+  -> PSE 602 Power Electronics Applications in Power
+  -> Systems 4 0 4
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> PSE 603 Power System Operations and Optimization
+  -> Techniques 4 0 4
+  -> PSE 604 Stability and Control of Electric Power
+  -> Systems 4 0 4
+  -> PSE 605 Special Topics in Power Systems
+  -> Engineering 4 0 4
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> PSE 699 Thesis 0 36 12
+
+Page 30
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Doctor of Philosophy in Chemical
+  -> Engineering
+
+Page 31
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 701 Advanced Statistics 3 0 3
+  -> ENGR 702 Optimization Techniques 3 0 3
+  -> ENGR 703 Doctoral Directed Research 3 0 3
+  -> ENGR 704 Advanced Numerical Methods 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 707  Sustainable Development in  Engineering 3 0 3
+  -> ENGR 705 Computational Intelligence 3 0 3
+  -> ENGR 706 PhD. Pre-Thesis 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708A PhD. Thesis 0 33 11
+
+Page 32
+  -> Fourth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708B PhD. Thesis 0 33 11
+  -> Fifth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708C PhD. Thesis 0 33 11
+  -> Sixth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708D PhD. Thesis 0 33 11
+  -> Seventh Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708E PhD. Thesis 0 30 10
+
+Page 33
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Doctor of Philosophy in Electrical
+  -> Engineering
+
+Page 34
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 701 Advanced Statistics 3 0 3
+  -> ENGR 702 Optimization Techniques 3 0 3
+  -> ENGR 703 Doctoral Directed Research 3 0 3
+  -> ENGR 704 Advanced Numerical Methods
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 707  Sustainable Development in  Engineering 3 0 3
+  -> ENGR 705 Computational Intelligence 3 0 3
+  -> ENGR 706 PhD. Pre-Thesis 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708A PhD. Thesis 0 33 11
+
+Page 35
+  -> Fourth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708B PhD. Thesis 0 33 11
+  -> Fifth  Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708C PhD. Thesis 0 33 11
+  -> Sixth   Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708D PhD. Thesis 0 33 11
+  -> Seventh   Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708E PhD. Thesis 0 30 10
+
+Page 36
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Doctor of Philosophy in Civil Engineering
+
+Page 37
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 701 Advanced Statistics 3 0 3
+  -> ENGR 702 Optimization Techniques 3 0 3
+  -> ENGR 703 Doctoral Directed Research 3 0 3
+  -> ENGR 704 Advanced Numerical Methods 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 707  Sustainable Development in  Engineering 3 0 3
+  -> ENGR 705 Computational Intelligence 3 0 3
+  -> ENGR 706 PhD. Pre-Thesis 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708A PhD. Thesis 0 33 11
+
+Page 38
+  -> Fourth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708B PhD. Thesis 0 33 11
+  -> Fifth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708C PhD. Thesis 0 33 11
+  -> Sixth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708D PhD. Thesis 0 33 11
+  -> Seventh Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708E PhD. Thesis 0 30 10
+
+Page 39
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> Doctor of Philosophy in Architecture
+
+Page 40
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ARCH710 Critical Readings of Theory 3 0 3
+  -> ARCH711 Advanced Research Methods 3 0 3
+  -> ARCH712 Contemporary Issues 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ARCH720 Research Seminars 3 0 3
+  -> ARCH721 Applied Statistical Techniques 3 0 3
+  -> ARCH722 Qualitative Data Analysis 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ARCH730 Pre-Thesis 3 0 3
+  -> ARCH731 Research and Design 3 0 3
+  -> ARCH732 Phenomenological & Environment
+  -> Behaviour Research  3 0 3
+
+Page 41
+  -> Fourth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ARCH 740 Thesis- 1 0 0 12
+  -> Fifth  Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ARCH 750 Thesis- 2  0 0 12
+  -> Sixth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ARCH 760 Thesis- 3 0 0 12
+  -> Seventh Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ARCH 770 Final Thesis 0 0 12
+
+Page 42
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Doctor of Philosophy in Engineering
+  -> Management
+
+Page 43
+  -> Required Specialization for Program Admission
+  -> A. The MSc in Engineering Management/Civil/Chemical/Mechanical/Electrical/
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 701 Advanced Statistics 3 0 3
+  -> ENGR 702 Optimization Techniques 3 0 3
+  -> ENGR 703 Doctoral Directed Research 3 0 3
+  -> ENGR 704 Advanced Numerical Methods 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 707  Sustainable Development in  Engineering 3 0 3
+  -> ENGR 705 Computational Intelligence 3 0 3
+  -> ENGR 706 PhD. Pre-Thesis 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708A PhD. Thesis 0 33 11
+
+Page 44
+  -> Fourth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708B PhD. Thesis 0 33 11
+  -> Fifth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708C PhD. Thesis 0 33 11
+  -> Sixth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708D PhD. Thesis 0 33 11
+  -> Seventh Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708E PhD. Thesis 0 30 10
+
+Page 45
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Doctor of Philosophy in Mechanical
+  -> Engineering
+
+Page 46
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 701 Advanced Statistics 3 0 3
+  -> ENGR 702 Optimization Techniques 3 0 3
+  -> ENGR 703 Doctoral Directed Research 3 0 3
+  -> ENGR 704 Advanced Numerical Methods 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 707  Sustainable Development in  Engineering 3 0 3
+  -> ENGR 705 Computational Intelligence 3 0 3
+  -> ENGR 706 PhD. Pre-Thesis 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708A PhD. Thesis 0 33 11
+
+Page 47
+  -> Fourth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708B PhD. Thesis 0 33 11
+  -> Fifth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708C PhD. Thesis 0 33 11
+  -> Sixth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708D PhD. Thesis 0 33 11
+  -> Seventh Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708E PhD. Thesis 0 30 10
+
+Page 48
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Doctor of Philosophy in Electronic
+  -> Engineering
+
+Page 49
+  -> Required Specialization for Program Admission
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 701 Advanced Statistics 3 0 3
+  -> ENGR 702 Optimization Techniques 3 0 3
+  -> ENGR 703 Doctoral Directed Research 3 0 3
+  -> ENGR 704 Advanced Numerical Methods 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 707  Sustainable Development in  Engineering 3 0 3
+  -> ENGR 705 Computational Intelligence 3 0 3
+  -> ENGR 706 PhD. Pre-Thesis 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708A PhD. Thesis 0 33 11
+
+Page 50
+  -> Fourth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708B PhD. Thesis 0 33 11
+  -> Fifth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708C PhD. Thesis  0  33  11
+  -> Sixth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708D PhD. Thesis 0 33 11
+  -> Seventh Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ENGR 708E PhD. Thesis 0 30 10
+
+Page 51
+  -> Deanship of Graduate Studies & Scientific Research
+  -> Tel: 17435033
+
+Detected headings: 744
+
+
+################################################################################
+DOCUMENT: Health_Sport_Science.pdf
+################################################################################
+
+Page 1
+  -> Postgraduate Studies
+  -> Programs
+  -> College of Health
+  -> and Sport Sciences
+  -> University of Bahrain
+  -> Deanship of Graduate Studies & Scienti/f_ic Research
+
+Page 2
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Master of Science in Adult Health Advanced
+  -> Practice Nursing
+
+Page 3
+  -> Required Specialization for Program  Admission
+  -> A. Bachelor in Nursing Holders
+  -> authorities, e.g., National Health Regulatory Authority (NHRA), Saudi
+  -> Commission for Health Specialties (SCFHS), Oman Medical Specialty Board
+  -> B. Postgraduate Diploma in Nursing Holders
+  -> Critical Care Nursing, (b) Cardiovascular Care Nursing, (c) Nephrology
+  -> authorities, e.g., National Health Regulatory Authority (NHRA), Saudi
+  -> Commission for Health Specialties (SCFHS), Oman Medical Specialty Board
+
+Page 4
+  -> Study Plan A
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> CRD. LEC. LAB CLINIC*
+  -> NUR602 Advanced Health Assessment 3 2 0 3
+  -> NUR611 Introduction to Advanced Practice Nursing 3 3 0 0
+  -> NUR603  Pathophysiology for Advanced Practice
+  -> Nursing 3 3 0 0
+  -> PHAM601  Pharmacology for Advanced Practice
+  -> Nursing 3 3 0 0
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> CRD. LEC. LAB CLINIC*
+  -> NUR615  Advanced Nursing Research and
+  -> Evidence-Based Practice 3 3 0 0
+  -> NUR612 Advanced Adult Health Nursing 3 3 0 0
+  -> Critical Care Nursing Minor
+  -> CRN601 Advanced Critical Care Nursing I 3 3 0 0
+  -> CRN602 Advanced Critical Care Nursing -
+  -> Practicum I 3 0 0 9
+  -> Cardiovascular Care Nursing Minor
+  -> CCN601 Cardiovascular Care Nursing I 3 3 0 0
+  -> CCN602 Cardiovascular Care Nursing Practicum I 3 0 0 9
+  -> Nephrology Nursing Minor
+  -> NEPH601 Nephrology Nursing I 3 3 0 0
+  -> NEPH602 Nephrology Nursing Practicum I 3 0 0 9
+  -> Emergency Nursing Care Minor
+  -> EMRN601 Emergency Nursing Care I 3 3 0 0
+  -> EMRN602 Emergency Nursing Care -Practicum I 3 0 0 9
+
+Page 5
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> CRD. LEC. LAB CLINIC*
+  -> NUR620 Statistical Reasoning and Application in
+  -> Nursing Research 3 2 2 0
+  -> Critical Care Nursing Minor
+  -> CCN603 Advanced Critical Care Nursing II 3 3 0 0
+  -> CRN604 Advanced Critical Care Nursing-
+  -> Practicum II 3 0 0 9
+  -> CRN605 Consolidated Critical Care Nursing
+  -> Practicum 3 0 0 9
+  -> Cardiovascular Care Nursing Minor
+  -> CCN603 Cardiovascular Care Nursing II 3 3 0 0
+  -> CCN604 Cardiovascular Care Nursing Practicum II 3 0 0 9
+  -> CCN605 Cardiovascular Care Nursing III 3 3 0 0
+  -> Nephrology Nursing Minor
+  -> NEPH603 Nephrology Nursing II 3 3 0 0
+  -> NEPH604 Nephrology Nursing Practicum II 3 0 0 9
+  -> NEPH605 Consolidated Practicum in Nephrology
+  -> Nursing 3 0 0 9
+  -> Emergency Nursing Care Minor
+  -> EMRN603 Emergency Nursing Care II 3 3 0 0
+  -> EMRN604 Advanced Emergency Nursing 3 3 0 0
+  -> EMRN605 Emergency Nursing Care -Practicum II 3 0 0 9
+  -> Fourth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> CRD. LEC. LAB CLINIC*
+  -> NUR631 # Clinical Residency 3 0 0 0
+  -> NUR624 Thesis 6 0 0 0
+
+Page 6
+  -> Study Plan B
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> CRD. LEC. LAB CLINIC*
+  -> NUR611 Introduction to Advanced Practice Nursing 3 3 0 0
+  -> NUR612 Advanced Adult Health Nursing 3 3 0 0
+  -> NUR603 Pathophysiology for Advanced Practice
+  -> Nursing 3 3 0 0
+  -> PHAM601 Pharmacology for Advanced Practice
+  -> Nursing 3 3 0 0
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> CRD. LEC. INT GTD
+  -> NUR620 Statistical Reasoning and Application in
+  -> Nursing Research 3 2 2 0
+  -> NUR631 # Clinical Residency 3 0 36 0
+  -> NUR624 Thesis 6 0 0 18
+
+Page 7
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> Postgraduate Diploma in Midwifery
+
+Page 8
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> CRD. LEC. LAB CLINIC*
+  -> MWF501 Antenatal Care 3 3 0 0
+  -> MWF502 Antenatal Care Practicum 2 0 0 6
+  -> MWF508 Women’s Health Issues 2 2 0 0
+  -> MWF511 Leadership and Management in Midwifery 2 2 0 0
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> CRD. LEC. LAB CLINIC*
+  -> MWF 503 Intrapartum Care  3 3 0 0
+  -> MWF 504 Intrapartum Care Practicum 2 0 0 6
+  -> MWF 506 Neonatal Care 2 2 0 0
+  -> MWF 509 Advance Midwifery Practicum 3 0 0 9
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> CRD. LEC. LAB CLINIC*
+  -> MWF 505 Postpartum Care & Family Planning 2 2 0 0
+  -> MWF 507 Postpartum & Neonatal care Practicum 2 0 0 6
+  -> MWF 510 Consolidate Midwifery Practicum1,2,3 0 0 0 0
+
+Page 9
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> Postgraduate Diploma in Critical Care Nursing
+
+Page 10
+  -> Degree-awarding Requirements
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC LAB CLN CRD
+  -> NUR504 Advanced Health Assessment 2 0 3 3
+  -> CRN501 Advanced Critical Care Nursing I 3 0 0 3
+  -> CRN502 Advanced Critical Care Nursing -
+  -> Practicum I 0 0 9 3
+  -> NUR505 Advanced Nursing Research and
+  -> Evidence-based Practice 3 0 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC LAB CLN CRD
+  -> CRN503 Advanced Critical Care Nursing II 3 0 0 3
+  -> CRN504  Advanced Critical Care Nursing -
+  -> Practicum II 0 0 9 3
+  -> CRN505  Consolidated Critical Care Nursing
+  -> Practicum 0 0 9 3
+
+Page 11
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> Postgraduate Diploma in Emergency Nursing
+
+Page 12
+  -> Degree-awarding Requirements
+  -> • Complete Advanced Cardiovascular Life Support (ACLS)
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC LAB CLN CRD
+  -> NUR504 Advanced Health Assessment 2 0 3 3
+  -> EMRN501 Emergency Nursing Care I 3 0 0 3
+  -> EMRN502 Emergency Nursing Care -Practicum I 0 0 9 3
+  -> NUR505 Advanced Nursing Research and
+  -> Evidence-based Practice 3 0 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC LAB CLN CRD
+  -> EMRN503 Emergency Nursing Care II 3 0 0 3
+  -> EMRN504  Advanced Emergency Nursing 3 0 0 3
+  -> EMRN505 Emergency Nursing Care -Practicum II 0 0 9 3
+
+Page 13
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> authorities, e.g., National Health Regulatory Authority (NHRA), Saudi
+  -> Commission for Health Specialties (SCFHS), Oman Medical Specialty Board
+  -> Postgraduate Diploma in Nephrology Nursing
+
+Page 14
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC LAB CLN CRD
+  -> NUR504 Advanced Health Assessment 2 0 3 3
+  -> NEPH501 Nephrology Nursing, I 3 0 0 3
+  -> NEPH502 Nephrology Nursing Practicum I 0 0 9 3
+  -> NUR505 Advanced Nursing Research and
+  -> Evidence-Based Practice 3 0 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC LAB CLN CRD
+  -> NEPH503 Nephrology Nursing II 3 0 0 3
+  -> NEPH 504 Nephrology Nursing Practicum II 0 0 9 3
+  -> NEPH505  Consolidated Practicum in Nephrology
+  -> Nursing 0 0 9 3
+
+Page 15
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> authorities, e.g., National Health Regulatory Authority (NHRA), Saudi
+  -> Commission for Health Specialties (SCFHS), Oman Medical Specialty Board
+  -> Postgraduate Diploma in Cardiovascular Care
+  -> Nursing
+
+Page 16
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC LAB CLN CRD
+  -> NUR504 Advanced Health Assessment 2 0 3 3
+  -> CCN501 Cardiovascular Care Nursing I 3 0 0 3
+  -> CCN502 Cardiovascular Care Nursing Practicum I 0 0 9 3
+  -> NUR505 Advanced Nursing Research and
+  -> Evidence-Based Practice 3 0 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC LAB CLN CRD
+  -> CCN503 Cardiovascular Care Nursing II 3 0 0 3
+  -> CCN504 Cardiovascular Care Nursing Practicum II 0 0 9 3
+  -> CCN505 Cardiovascular Care Nursing III 3 0 0 3
+
+Page 17
+  -> Deanship of Graduate Studies & Scientific Research
+  -> Tel: 17435033
+
+Detected headings: 225
+
+
+################################################################################
+DOCUMENT: Information-Technology.pdf
+################################################################################
+
+Page 1
+  -> Postgraduate Studies
+  -> Programs
+  -> College of Information
+  -> Technology
+  -> University of Bahrain
+  -> Deanship of Graduate Studies & Scienti/f_ic Research
+
+Page 2
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Master of Science in Cybersecurity
+  -> Program
+
+Page 3
+  -> Required Specialization for Program Admission
+  -> Business Administration with IT (BBA-IT), Business Informatics, Business
+  -> Information Systems, Cloud Computing, Communication and Information
+  -> Computer Applications, Computer Engineering, Computer Information
+  -> Systems, Computer Information Technology, Computer Networks, Computer
+  -> Design and Development of Multimedia, Electrical Engineering, Electronics
+  -> Engineering, Health Information Management, Informatics, Information and
+  -> Telecommunications Systems, Information Engineering, Information System
+  -> Technology, Information Systems, Information Technology, Management
+  -> Mechatronics Engineering, Network Engineering, Physics with minor in
+  -> computer science, Software Development, Software Engineering, System
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITCY610  Network and Information Security
+  -> Management 4 0 4
+  -> ITCY614 Applied Cryptography 4 0 4
+  -> ITCY615 Research Methodology 4 0 4
+
+Page 4
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITCY620  Incident Response and Penetration
+  -> Testing 4 0 4
+  -> ITCY6xx Elective 1 4 0 4
+  -> ITCY6xx Elective 2 4 0 4
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITCY690 M.Sc. Thesis 0 27 9
+  -> Elective Courses
+  -> Course Hours
+  -> Course Code Course Title CRD PRAC CRD
+  -> ITCY622 Cloud Security 4 0 4
+  -> ITCY623 Threats, Exploits and Countermeasure s 4 0 4
+  -> ITCY624 Security Aspects of Internet of Things 4 0 4
+  -> ITCY625 Machine Learning 4 0 4
+  -> ITCY626 Cyber Security Architecture and Design 4 0 4
+  -> ITCY627 Selected Topics in Cyber-Security 4 0 4
+
+Page 5
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Computational Intelligence Program
+
+Page 6
+  -> Required Specialization for Program Admission
+  -> Business Administration with IT (BBA-IT), Business Informatics, Business
+  -> Information Systems, Cloud Computing, Communication and Information
+  -> Computer Applications, Computer Engineering, Computer Information
+  -> Systems, Computer Information Technology, Computer Networks, Computer
+  -> Design and Development of Multimedia, Electrical Engineering, Electronics
+  -> Engineering, Health Information Management, Informatics, Information and
+  -> Telecommunications Systems, Information Engineering, Information System
+  -> Technology, Information Systems, Information Technology, Management
+  -> Mechatronics Engineering, Network Engineering, Physics with minor in
+  -> computer science, Software Development, Software Engineering, System
+
+Page 7
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITML 601  Artificial Intelligence & Natural Language
+  -> Processing 4 0 4
+  -> ITML602 Machine Learning 4 0 4
+  -> ITML603 Research Methodology 4 0 4
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITML604 Deep Learning 4 0 4
+  -> ITML605   Robotics and Computer Vision 4 0 4
+  -> ITML608 Advanced Topics in Computational
+  -> Intelligence 4 0 4
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITML690 MSc Thesis 0 27 9
+
+Page 8
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Master of Science in Applied Artificial
+  -> Intelligence
+
+Page 9
+  -> Required Specialization for Program Admission
+  -> Chemical, Electrical, Electronics and Communication, Process Instrumentation
+  -> Business Management, Banking & Finance, Accounting), Health and Sports
+  -> Islamic Studies, Mass Communication, Tourism, Arts and Design, English
+  -> Language and Literature, History), Law, Education, Social Sciences and
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITAAI601 Computer Programming and Data Science 4 0 4
+  -> ITAAI602 Networked Systems and Information
+  -> Security 4 0 4
+  -> ITAAI603 Professional Issues and Research
+  -> Methodology 4 0 4
+
+Page 10
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITAAI604 Big Data Applications and Analytics 4 0 4
+  -> ITAAI605 Artificial Intelligence Concepts and
+  -> Applications 4 0 4
+  -> ITAAI611 Selected Topics in Applied Artificial
+  -> Intelligence 4 0 4
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITAAI699 Thesis 0 27 9
+
+Page 11
+  -> Program Objectives
+  -> Program Intended Learning Outcomes- PILOs
+  -> Thinking, Knowledge)
+  -> (Research, Critical Thinking, Knowledge)
+  -> Information Sciences Program
+
+Page 12
+  -> Required Specialization for Program Admission
+  -> to Artificial Intelligence, Biology with minor in Computer Science, Business
+  -> Administration with IT (BBA-IT), Business Informatics, Business Information
+  -> Communication Engineering, Computer and Information Science, Computer
+  -> Computer Information Technology, Computer Networks, Computer
+  -> Design and Development of Multimedia, Electrical Engineering, Electronics
+  -> Engineering, Health Information Management, Informatics, Information and
+  -> Telecommunications Systems, Information Engineering, Information System
+  -> Technology, Information Systems, Information Technology, Management
+  -> Mechatronics Engineering, Network Engineering, Physics with minor in
+  -> computer science, Software Development, Software Engineering, System
+
+Page 13
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITCIS791 Research Methods 3 0 3
+  -> ITCIS792 Statistics Techniques 3 0 3
+  -> ITCIS714 Advanced Topics in AI 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITCIS715 Advanced Topics in Applied Computing
+  -> and Information Sciences 3 0 3
+  -> ITCIS716 Advanced Topics in Theoretical
+  -> Computing and Information Sciences 3 0 3
+  -> ITCIS793 Graduate Seminar 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITCIS717  Selected Advanced Topics in Computing
+  -> and Information Sciences 3 0 3
+  -> ITCIS795 PhD Thesis I - 18 6
+
+Page 14
+  -> Fourth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITCIS796 PhD Thesis II 0 36 12
+  -> Fifith Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITCIS797 PhD Thesis III 0 36 12
+  -> Sixth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITCIS798 PhD Thesis IV 0 36 12
+  -> Seventh Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ITCIS799 PhD Thesis V 0 36 12
+
+Page 15
+  -> Deanship of Graduate Studies & Scientific Research
+  -> Tel: 17435033
+
+Detected headings: 183
+
+
+################################################################################
+DOCUMENT: Science.pdf
+################################################################################
+
+Page 1
+  -> Postgraduate Studies
+  -> Programs
+  -> University of Bahrain
+  -> Deanship of Graduate Studies & Scientific Research
+  -> College of Science
+
+Page 2
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> Master in Environment and Sustainable
+  -> Development Program
+
+Page 3
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ESD 601 Environmental Science 3 0 3
+  -> ESD 603 Environmental Economic 3 0 3
+  -> ESD 647 Research Methods 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ESD 602 Environmental Law 3 0 3
+  -> ESD 651 ResourceWaste Management 3 0 3
+  -> ESD 611 Energy and the Environment 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ESD XXX Elective Course 1 3 0 3
+  -> ESD XXX Elective Course 2 3 0 3
+  -> ESD XXX Elective Course 3 3 0 3
+  -> Fourth  Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ESD 649 Thesis 0 27 9
+
+Page 4
+  -> Details of Elective Courses
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ESD 653 Biodiversity And Conservation 3 0 3
+  -> ESD 614 Desert Ecology And Desertification 3 0 3
+  -> ESD 652 Climate Change And Air Quality 3 0 3
+  -> ESD 626 Environmental Impact Assessment 3 0 3
+  -> ESD 634 Marine Pollution 3 0 3
+  -> ESD 654 Environmental Radiology And Radiation
+  -> Protection 3 0 3
+  -> ESD 646 Special Topics In Environmental Sceince 3 0 3
+  -> ESD 656 Water Resources Managment 3 0 3
+
+Page 5
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> Master of Science in Biological Sciences
+  -> Program
+
+Page 6
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> BIOLS 610 Biostatistics 4 0 4
+  -> BIOLS 611 Bioinformatics 4 0 4
+  -> BIOLS 612 Advanced Techniques in Biology 4 0 4
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> BIOLS 600 Seminar 3 0 3
+  -> BIOLS 601 Research Methodology and Ethics 3 0 3
+  -> BIOLS 6xx Elective 1 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> BIOLS 6xx Elective 2 3 0 3
+  -> Fourth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> BIOLS 699 Thesis 0 36 12
+
+Page 7
+  -> Electives Course List
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> BIOLS 606 Advances in Biotechnology 3 0 3
+  -> BIOLS 607 Advances in Cell and Molecular Biology 3 0 3
+  -> BIOLS 608 Advances in Marine Biology 3 0 3
+  -> BIOLS 609 Artificial Intelligence in Biology 3 0 3
+  -> BIOLS 613 Special Topics in Biological Sciences 3 0 3
+
+Page 8
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Master of Science in Big Data Science and
+  -> Analytics Program
+
+Page 9
+  -> Required Specialization for Program Admission
+  -> (Java, C++, Python, R), Data Structure & Algorithms
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> BDSA 601 Research Methods 4 0 4
+  -> BDSA 602 Statistical Data Analysis 4 0 4
+  -> BDSA 603 Big Data Analytics 4 0 4
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> BDSA 604 Machine Learning 4 0 4
+  -> BDSA 605 Data Mining 4 0 4
+  -> BDSA 610 Data Visualization 4 0 4
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> BDSA 609 Thesis 0 36 12
+
+Page 10
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> Master of Science in Environmental
+  -> Chemistry Program
+
+Page 11
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CHEMY 610 Research Methodology and Seminars 3 0 3
+  -> CHEMY 611 Introduction to Environmental Chemistry 3 0 3
+  -> CHEMY 612 Environmentally Benign Technology 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CHEMY 613 Environmental Analytical Techniques 3 2 3
+  -> CHEMY xxx Elective 1 3 0 3
+  -> CHEMY xxx Elective 2 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CHEMY xxx Elective 3 3 0 3
+  -> CHEMY xxx Elective 4 3 0 3
+  -> Fourth  Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CHEMY 622 Thesis 0 27 9
+
+Page 12
+  -> Electives Course List
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> CHEMY614 Solid Waste Management 3 0 3
+  -> CHEMY615 Physicochemical Wastewater Treatment 3 0 3
+  -> CHEMY616 Atmospheric Chemistry 3 0 3
+  -> CHEMY617 Organic Contaminants in the Environment 3 0 3
+  -> CHEMY618 Corrosion and Environment 3 2 3
+  -> CHEMY619 Environmental Impacts Of Energy 3 0 3
+  -> CHEMY620 Nanomaterials for Environmental
+  -> Remediation 3 0 3
+  -> CHEMY621 Industrial Effluents And Emission Analysis 3 0 3
+
+Page 13
+  -> Program Objectives
+  -> Program Intended Learning Outcomes
+  -> Required Specialization for Program Admission
+  -> Sustainable Development
+
+Page 14
+  -> Study Plan
+  -> First Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ESD 701 Environment and Sustainability 3 0 3
+  -> ESD 704 Advanced Environmental Research Skills 3 0 3
+  -> ESD 703 Sustainable Development Goals 3 0 3
+  -> Second Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ESD 702 Environment and Sustainability
+  -> Assessment 3 0 3
+  -> ESD 705 Sustainable Resources Management 3 0 3
+  -> Third Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ESD 707 Global Environmental Issues 3 0 3
+  -> ESD 719 Thesis I 0 27 9
+  -> Fourth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ESD 729 Thesis II 0 27 9
+
+Page 15
+  -> Fifth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ESD 739 Thesis III 0 27 9
+  -> Sixth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ESD 749 Thesis IV 0 27 9
+  -> Seventh Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ESD 759 Thesis V 0 27 9
+  -> Eighth Semester
+  -> Course Code Course Title
+  -> Course Hours
+  -> LEC. PRAC CRD
+  -> ESD 769 Thesis VI 0 27 9
+
+Page 16
+  -> Deanship of Graduate Studies & Scientific Research
+  -> Tel: 17435033
+
+Detected headings: 211

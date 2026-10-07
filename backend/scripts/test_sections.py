@@ -14,10 +14,14 @@ for pdf_path in sorted(documents_directory.glob("*.pdf")):
 
     pages = extract_pdf_pages(pdf_path)
 
+    total_detected = 0
+
     for page in pages:
         sections = split_into_sections(page["text"])
 
-        detected_sections = [section for section in sections if section["section"]]
+        detected_sections = [
+            section for section in sections if section["section"] is not None
+        ]
 
         if not detected_sections:
             continue
@@ -25,4 +29,8 @@ for pdf_path in sorted(documents_directory.glob("*.pdf")):
         print(f"\nPage {page['page']}")
 
         for section in detected_sections:
-            print("  -> " + section["section"])
+            print(f"  -> {section['section']}")
+
+            total_detected += 1
+
+    print(f"\nDetected headings: {total_detected}")

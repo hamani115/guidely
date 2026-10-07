@@ -1,0 +1,32 @@
+{
+  "Business-Admin.pdf": {
+    "signature": "8c03a37d12cf57c1e2d78a0514bdca61da66eaaf0b7a25d1cf65bd0f9304e2ab",
+    "chunk_count": 89,
+    "chunks_file": "Business-Admin.chunks.json",
+    "embeddings_file": "Business-Admin.embeddings.npy"
+  },
+  "Engineering.pdf": {
+    "signature": "81f4450f734749a877b75b27d67a2a13db2f5f7c16917d11e4a22f6fb1fce81b",
+    "chunk_count": 144,
+    "chunks_file": "Engineering.chunks.json",
+    "embeddings_file": "Engineering.embeddings.npy"
+  },
+  "Health_Sport_Science.pdf": {
+    "signature": "315e7b3e73668ffdd2f5b71b87c67bf297a690cc6fb33f0c913b4eed64dd1661",
+    "chunk_count": 44,
+    "chunks_file": "Health_Sport_Science.chunks.json",
+    "embeddings_file": "Health_Sport_Science.embeddings.npy"
+  },
+  "Information-Technology.pdf": {
+    "signature": "d8e44a90760f15bd205a814d1d9849be908db0b731d16cacfe2f1f1863ac77f7",
+    "chunk_count": 38,
+    "chunks_file": "Information-Technology.chunks.json",
+    "embeddings_file": "Information-Technology.embeddings.npy"
+  },
+  "Science.pdf": {
+    "signature": "c2816916672d6d78621c3068004bd9627c35998fd466a403831f75cd8b92a7d0",
+    "chunk_count": 46,
+    "chunks_file": "Science.chunks.json",
+    "embeddings_file": "Science.embeddings.npy"
+  }
+}

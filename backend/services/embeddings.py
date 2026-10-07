@@ -3,10 +3,26 @@ from sentence_transformers import SentenceTransformer
 
 from config import EMBEDDING_MODEL_NAME
 
-model = SentenceTransformer(EMBEDDING_MODEL_NAME)
+_model = None
 
 
-def embed_texts(texts: list[str]) -> np.ndarray:
+def get_embedding_model():
+    global _model
+
+    if _model is None:
+        _model = SentenceTransformer(
+            EMBEDDING_MODEL_NAME,
+            device="cpu",
+        )
+
+    return _model
+
+
+def embed_texts(
+    texts: list[str],
+) -> np.ndarray:
+    model = get_embedding_model()
+
     embeddings = model.encode(
         texts,
         batch_size=32,
@@ -18,7 +34,11 @@ def embed_texts(texts: list[str]) -> np.ndarray:
     return embeddings.astype("float32")
 
 
-def embed_query(query: str) -> np.ndarray:
+def embed_query(
+    query: str,
+) -> np.ndarray:
+    model = get_embedding_model()
+
     embedding = model.encode(
         query,
         convert_to_numpy=True,
